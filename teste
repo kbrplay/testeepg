@@ -1,0 +1,4784 @@
+<?xml version="1.0"?>
+<tv generator-info-name="MIPTV" generator-info-url="http://miptv.ws"><channel id="9A1">
+<display-name lang="pt">PFC 1</display-name>
+<icon src="9a1.png"/>
+</channel><channel id="9A2">
+<display-name lang="pt">PFC 2</display-name>
+<icon src="9a2.png"/>
+</channel><channel id="9A3">
+<display-name lang="pt">PFC 3</display-name>
+<icon src="9a3.png"/></channel>
+<channel id="9A4">
+<display-name lang="pt">PFC 4</display-name>
+<icon src="9a4.png"/></channel>
+<channel id="9A5">
+<display-name lang="pt">PFC 5</display-name>
+<icon src="9a5.png"/></channel>
+<channel id="9A6">
+<display-name lang="pt">PFC 6</display-name>
+<icon src="9a6.png"/></channel>
+<channel id="9A7">
+<display-name lang="pt">PFC 7</display-name>
+<icon src="9a7.png"/></channel>
+<channel id="9A8">
+<display-name lang="pt">PFC 8</display-name>
+<icon src="9a8.png"/>
+</channel><channel id="MHD">
+<display-name lang="pt">Max UP</display-name>
+<icon src="mhd.png"/>
+</channel><channel id="GPA">
+<display-name lang="pt">Globo Para (Belem) - TV Liberal</display-name>
+<icon src="gpa.png"/>
+</channel><channel id="GBF">
+<display-name lang="pt">Globo - TV Verdes Mares</display-name>
+<icon src="gbf.png"/>
+</channel><channel id="GBB">
+<display-name lang="pt">Globo - TV Bahia</display-name>
+<icon src="gbb.png"/>
+</channel><channel id="MHD">
+<display-name lang="pt">MAX HD</display-name>
+<icon src="mhd.png"/>
+</channel><channel id="GBG">
+<display-name lang="pt">Globo Goias - TV Anhanguera</display-name>
+<icon src="gbg.png"/>
+</channel><channel id="MGH">
+<display-name lang="pt">AMC HD</display-name>
+<icon src="mgh.png"/>
+</channel><channel id="OFS">
+<display-name lang="pt">OFF</display-name>
+<icon src="ofs.png"/>
+</channel><channel id="TEM">
+<display-name lang="pt">Globo - TV TEM Sorocaba</display-name>
+<icon src="tem.png"/>
+</channel><channel id="781">
+<display-name lang="pt">PFC 9</display-name>
+<icon src="781.png"/>
+</channel><channel id="GHS">
+<display-name lang="pt">+Globosat</display-name>
+<icon src="ghs.png"/>
+</channel><channel id="GHS">
+<display-name lang="pt">+Globosat HD</display-name>
+<icon src="ghs.png"/>
+</channel><channel id="GHS">
+<display-name lang="pt">+Globosat HD</display-name>
+<icon src="ghs.png"/>
+</channel><channel id="RTP">
+<display-name lang="pt">RTP Internacional</display-name>
+<icon src="rtp.png"/>
+</channel><channel id="(INT) Globo Internacional">
+<display-name lang="pt">Globo Internacional</display-name>
+<icon src="(INT) Globo Internacional.png"/>
+</channel><channel id="(INT) Record International">
+<display-name lang="pt">Record Internacional</display-name>
+<icon src="(INT) Record International.png"/>
+</channel><channel id="(PT)VENUS">
+<display-name lang="pt">Venus</display-name>
+<icon src="(PT)VENUS.png"/>
+</channel><channel id="(PT)VH1">
+<display-name lang="pt">(PT)VH1 Classic</display-name>
+<icon src="(PT)VH1.png"/>
+</channel><channel id="(PT)PENTHOUSEHD1">
+<display-name lang="pt">XX: PentHouse</display-name>
+<icon src="(PT)PENTHOUSEHD1.png"/>
+</channel><channel id="(PT)HOT">
+<display-name lang="pt">XX: HOT</display-name>
+<icon src="(PT)HOT.png"/>
+</channel><channel id="hot">
+<display-name lang="pt">XX: Sex Hot</display-name>
+<icon src="hot.png"/>
+</channel><channel id="(PT)SEXTREME">
+<display-name lang="pt">XX: Sextreme</display-name>
+<icon src="(PT)SEXTREME.png"/>
+</channel><channel id="(PT)PLAYBOY HD">
+<display-name lang="pt">XX: PlayBoy</display-name>
+<icon src="(PT)PLAYBOY HD.png"/>
+</channel><channel id="tem">
+<display-name lang="pt">Globo - TV TEM Bauru</display-name>
+<icon src="tem.png"/>
+</channel><channel id="poa">
+<display-name lang="pt">Globo - RBS TV</display-name>
+<icon src="poa.png"/>
+</channel><channel id="SPL">
+<display-name lang="pt">Esporte Interativo</display-name>
+<icon src="spl.png"/>
+</channel><channel id="SPL">
+<display-name lang="pt">Esporte Interativo HD</display-name>
+<icon src="spl.png"/>
+</channel><channel id="SPI">
+<display-name lang="pt">Esporte Interativo BR</display-name>
+<icon src="spi.png"/>
+</channel><channel id="SPG">
+<display-name lang="pt">Esporte Interativo 2</display-name>
+<icon src="spg.png"/>
+</channel><channel id="100">
+<display-name lang="pt">Concert Channel</display-name>
+<icon src="100.png"/>
+</channel>
+<channel id="119">
+<display-name lang="pt">Big Brother TVA - Telefonica - IPTV</display-name>
+<icon src="119.png"/>
+</channel>
+<channel id="120">
+<display-name lang="pt">Big Brother TVA - Telefonica - IPTV</display-name>
+<icon src="120.png"/>
+</channel>
+<channel id="121">
+<display-name lang="pt">Premiere Clubes</display-name>
+<icon src="121.png"/>
+</channel>
+<channel id="133">
+<display-name lang="pt">Premiere 1 Combate SD- Multiplay Fortale</display-name>
+<icon src="133.png"/>
+</channel>
+<channel id="134">
+<display-name lang="pt">Combate HD</display-name>
+<icon src="134.png"/>
+</channel>
+<channel id="135">
+<display-name lang="pt">Combate</display-name>
+<icon src="135.png"/>
+</channel>
+<channel id="136">
+<display-name lang="pt">Combate</display-name>
+<icon src="136.png"/>
+</channel>
+<channel id="203">
+<display-name lang="pt">Games Cl&#xE1;ssicos Net</display-name>
+<icon src="203.png"/>
+</channel>
+<channel id="239">
+<display-name lang="pt">Sportv Interativo NET</display-name>
+<icon src="239.png"/>
+</channel>
+<channel id="250">
+<display-name lang="pt">NET</display-name>
+<icon src="250.png"/>
+</channel>
+<channel id="312">
+<display-name lang="pt">PPV 01 Oitv NDS</display-name>
+<icon src="312.png"/>
+</channel>
+<channel id="313">
+<display-name lang="pt">PPV 02 OITV NDS</display-name>
+<icon src="313.png"/>
+</channel>
+<channel id="314">
+<display-name lang="pt">PPV 03 OITV NDS</display-name>
+<icon src="314.png"/>
+</channel>
+<channel id="315">
+<display-name lang="pt">PPV 04 OITV NDS</display-name>
+<icon src="315.png"/>
+</channel>
+<channel id="316">
+<display-name lang="pt">PPV 05 OITV NDS</display-name>
+<icon src="316.png"/>
+</channel>
+<channel id="317">
+<display-name lang="pt">PPV 06 OITV NDS</display-name>
+<icon src="317.png"/>
+</channel>
+<channel id="318">
+<display-name lang="pt">PPV 07 OITV NDS</display-name>
+<icon src="318.png"/>
+</channel>
+<channel id="319">
+<display-name lang="pt">PPV 08 OITV NDS</display-name>
+<icon src="319.png"/>
+</channel>
+<channel id="320">
+<display-name lang="pt">PPV 09 OITV NDS</display-name>
+<icon src="320.png"/>
+</channel>
+<channel id="321">
+<display-name lang="pt">PPV 10 OITV NDS</display-name>
+<icon src="321.png"/>
+</channel>
+<channel id="322">
+<display-name lang="pt">PPV 11 OITV NDS</display-name>
+<icon src="322.png"/>
+</channel>
+<channel id="323">
+<display-name lang="pt">PPV 12 OITV NDS</display-name>
+<icon src="323.png"/>
+</channel>
+<channel id="3DH">
+<display-name lang="pt">Canal 703 Net Hd 3d</display-name>
+<icon src="3dh.png"/>
+</channel>
+<channel id="502">
+<display-name lang="pt">Net - Canal 500 - sem Now</display-name>
+<icon src="502.png"/>
+</channel>
+<channel id="505">
+<display-name lang="pt">Band HD</display-name>
+<icon src="505.png"/>
+</channel>
+<channel id="509">
+<display-name lang="pt">MTV HD</display-name>
+<icon src="509.png"/>
+</channel>
+<channel id="633">
+<display-name lang="pt">Globosat HD 2</display-name>
+<icon src="633.png"/>
+</channel>
+<channel id="634">
+<display-name lang="pt">Globosat HD Alternativo</display-name>
+<icon src="634.png"/>
+</channel>
+<channel id="638">
+<display-name lang="pt">SporTV 2 Alternativo</display-name>
+<icon src="638.png"/>
+</channel>
+<channel id="639">
+<display-name lang="pt">SporTV Alternativo</display-name>
+<icon src="639.png"/>
+</channel>
+<channel id="640">
+<display-name lang="pt">Premiere HD Alternativo</display-name>
+<icon src="640.png"/>
+</channel>
+<channel id="642">
+<display-name lang="pt">Premiere FC 2 Alternativo</display-name>
+<icon src="642.png"/>
+</channel>
+<channel id="643">
+<display-name lang="pt">Premiere 24 Horas Alternativo</display-name>
+<icon src="643.png"/>
+</channel>
+<channel id="650">
+<display-name lang="pt">Premiere HD GVT</display-name>
+<icon src="650.png"/>
+</channel>
+<channel id="651">
+<display-name lang="pt">Premiere FC 1 GVT</display-name>
+<icon src="651.png"/>
+</channel>
+<channel id="652">
+<display-name lang="pt">Premiere FC 2 GVT</display-name>
+<icon src="652.png"/>
+</channel>
+<channel id="653">
+<display-name lang="pt">Premiere FC 3 GVT</display-name>
+<icon src="653.png"/>
+</channel>
+<channel id="654">
+<display-name lang="pt">Premiere FC 4 GVT</display-name>
+<icon src="654.png"/>
+</channel>
+<channel id="655">
+<display-name lang="pt">Premiere FC 5 GVT</display-name>
+<icon src="655.png"/>
+</channel>
+<channel id="656">
+<display-name lang="pt">Premiere FC 6 GVT</display-name>
+<icon src="656.png"/>
+</channel>
+<channel id="657">
+<display-name lang="pt">Premiere FC 7 GVT</display-name>
+<icon src="657.png"/>
+</channel>
+<channel id="658">
+<display-name lang="pt">Premiere FC 8 GVT</display-name>
+<icon src="658.png"/>
+</channel><channel id="7B7">
+<display-name lang="pt">SporTV Alternativo - Mediaroom OiTV 701</display-name>
+<icon src="7b7.png"/>
+</channel>
+<channel id="7B8">
+<display-name lang="pt">SporTV 2 Altern- Mediaroom OiTV 702</display-name>
+<icon src="7b8.png"/>
+</channel>
+<channel id="7B9">
+<display-name lang="pt">SporTV 3 Altern - Mediaroom OiTV 703</display-name>
+<icon src="7b9.png"/>
+</channel>
+<channel id="7C1">
+<display-name lang="pt">SporTV HD Altern - Mediaroom OiTV 704</display-name>
+<icon src="7c1.png"/>
+</channel>
+<channel id="800">
+<display-name lang="pt">Kids - Canal de &#xC1;udio</display-name>
+<icon src="800.png"/>
+</channel><channel id="837">
+<display-name lang="pt">Grammy - Canal de &#xC1;udio</display-name>
+<icon src="837.png"/>
+</channel>
+<channel id="838">
+<display-name lang="pt">Sucesso - Canal de &#xC1;udio</display-name>
+<icon src="838.png"/>
+</channel>
+<channel id="839">
+<display-name lang="pt">Globo AM</display-name>
+<icon src="839.png"/>
+</channel>
+<channel id="840">
+<display-name lang="pt">Multishow FM</display-name>
+<icon src="840.png"/>
+</channel>
+<channel id="841">
+<display-name lang="pt">R&#xE1;dio YKS</display-name>
+<icon src="841.png"/>
+</channel>
+<channel id="842">
+<display-name lang="pt">Eletr&#xF4;nica - Canal de &#xC1;udio</display-name>
+<icon src="842.png"/>
+</channel>
+<channel id="843">
+<display-name lang="pt">R&#xE1;dio Globo RJ</display-name>
+<icon src="843.png"/>
+</channel>
+<channel id="844">
+<display-name lang="pt">R&#xE1;dio Globo SP</display-name>
+<icon src="844.png"/>
+</channel>
+<channel id="845">
+<display-name lang="pt">R&#xE1;dio CBN RJ</display-name>
+<icon src="845.png"/>
+</channel>
+<channel id="846">
+<display-name lang="pt">R&#xE1;dio CBN SP</display-name>
+<icon src="846.png"/>
+</channel>
+<channel id="847">
+<display-name lang="pt">R&#xE1;dio CBN BH</display-name>
+<icon src="847.png"/>
+</channel>
+<channel id="848">
+<display-name lang="pt">R&#xE1;dio CBN BSB&#xA0;</display-name>
+<icon src="848.png"/>
+</channel>
+<channel id="849">
+<display-name lang="pt">Premiere Clubes HD</display-name>
+<icon src="849.png"/>
+</channel>
+<channel id="850">
+<display-name lang="pt">Premiere Clubes</display-name>
+<icon src="850.png"/>
+</channel>
+<channel id="861">
+<display-name lang="pt">Globosat HD2 - CLAROTV</display-name>
+<icon src="861.png"/>
+</channel>
+<channel id="9A1">
+<display-name lang="pt">PFC 1 HD [ALTERNATIVO]</display-name>
+<icon src="9a1.png"/>
+</channel>
+<channel id="9A2">
+<display-name lang="pt">PFC 2 HD [ALTERNATIVO]</display-name>
+<icon src="9a2.png"/>
+</channel>
+<channel id="9A3">
+<display-name lang="pt">PFC 3 HD [ALTERNATIVO]</display-name>
+<icon src="9a3.png"/>
+</channel>
+<channel id="9A4">
+<display-name lang="pt">PFC 4 HD [ALTERNATIVO]</display-name>
+<icon src="9a4.png"/>
+</channel>
+<channel id="9A5">
+<display-name lang="pt">PFC 5 HD [ALTERNATIVO]</display-name>
+<icon src="9a5.png"/>
+</channel>
+<channel id="9A6">
+<display-name lang="pt">PFC 6 HD [ALTERNATIVO]</display-name>
+<icon src="9a6.png"/>
+</channel>
+<channel id="9A7">
+<display-name lang="pt">PFC 7 HD [ALTERNATIVO]</display-name>
+<icon src="9a7.png"/>
+</channel>
+<channel id="9A8">
+<display-name lang="pt">PFC 8 HD [ALTERNATIVO]</display-name>
+<icon src="9a8.png"/>
+</channel>
+<channel id="ABR">
+<display-name lang="pt">Canal Abril</display-name>
+<icon src="abr.png"/>
+</channel>
+<channel id="ACA">
+<display-name lang="pt">TV Arauc&#xE1;ria</display-name>
+<icon src="aca.png"/>
+</channel>
+<channel id="ADM">
+<display-name lang="pt">Private</display-name>
+<icon src="adm.png"/>
+</channel>
+<channel id="AE0">
+<display-name lang="pt">R&#xE1;dio Eldorado Fm Embratel</display-name>
+<icon src="ae0.png"/>
+</channel>
+<channel id="AE1">
+<display-name lang="pt">Radio Band News (embratel)</display-name>
+<icon src="ae1.png"/>
+</channel>
+<channel id="AE2">
+<display-name lang="pt">R&#xE1;dio Cultura Fm (embratel)</display-name>
+<icon src="ae2.png"/>
+</channel>
+<channel id="AE3">
+<display-name lang="pt">R&#xE1;dio Mix (embratel)</display-name>
+<icon src="ae3.png"/>
+</channel>
+<channel id="AE4">
+<display-name lang="pt">R&#xE1;dio Nativa (embratel)</display-name>
+<icon src="ae4.png"/>
+</channel>
+<channel id="AE5">
+<display-name lang="pt">Cultura Brasil (embratel)</display-name>
+<icon src="ae5.png"/>
+</channel>
+<channel id="AE6">
+<display-name lang="pt">R&#xE1;dio Classic Pan Embratel</display-name>
+<icon src="ae6.png"/>
+</channel>
+<channel id="AE7">
+<display-name lang="pt">R&#xE1;dio Itatiaia Am/fm Embratel</display-name>
+<icon src="ae7.png"/>
+</channel>
+<channel id="AE8">
+<display-name lang="pt">R&#xE1;dio Jovem Pan Am Embratel</display-name>
+<icon src="ae8.png"/>
+</channel>
+<channel id="AE9">
+<display-name lang="pt">R&#xE1;dio Can&#xE7;&#xE3;o Nova Am Embratel</display-name>
+<icon src="ae9.png"/>
+</channel>
+<channel id="AEA">
+<display-name lang="pt">R&#xE1;dio Eldorado Am - Embratel</display-name>
+<icon src="aea.png"/>
+</channel>
+<channel id="AEB">
+<display-name lang="pt">R&#xE1;dio Jovem Pan Fm - Embratel</display-name>
+<icon src="aeb.png"/>
+</channel>
+<channel id="AEC">
+<display-name lang="pt">R&#xC1;DIO FM GA&#xDA;CHA - EMBRATEL</display-name>
+<icon src="aec.png"/>
+</channel>
+<channel id="AED">
+<display-name lang="pt">R&#xC1;DIO FM ATLANTIDA - EMBRATEL</display-name>
+<icon src="aed.png"/>
+</channel>
+<channel id="AGM">
+<display-name lang="pt">Agrobrasil - Campo Grande</display-name>
+<icon src="agm.png"/>
+</channel>
+<channel id="AGR">
+<display-name lang="pt">Agrocanal</display-name>
+<icon src="agr.png"/>
+</channel>
+<channel id="AGS">
+<display-name lang="pt">Agro Canal</display-name>
+<icon src="ags.png"/>
+</channel>
+<channel id="AJ1">
+<display-name lang="pt">Canal Ajuda - Now</display-name>
+<icon src="aj1.png"/>
+</channel>
+<channel id="AJZ">
+<display-name lang="pt">TV Aljazeera</display-name>
+<icon src="ajz.png"/>
+</channel>
+<channel id="ALB">
+<display-name lang="pt">Canal Legislativo</display-name>
+<icon src="alb.png"/>
+</channel>
+<channel id="ALC">
+<display-name lang="pt">Assembleia Legislativa - SC</display-name>
+<icon src="alc.png"/>
+</channel>
+<channel id="ALD">
+<display-name lang="pt">TV Aldeia - Acre</display-name>
+<icon src="ald.png"/>
+</channel>
+<channel id="ALO">
+<display-name lang="pt">Assembleia Legislativa - Osasco</display-name>
+<icon src="alo.png"/>
+</channel>
+<channel id="ALP">
+<display-name lang="pt">Assembleia Legislativa Paran&#xE1;</display-name>
+<icon src="alp.png"/>
+</channel>
+<channel id="ALT">
+<display-name lang="pt">TV Altiora - Bragan&#xE7;a Paulista</display-name>
+<icon src="alt.png"/>
+</channel>
+<channel id="ALX">
+<display-name lang="pt">Assembleia Legislativa Caxias</display-name>
+<icon src="alx.png"/>
+</channel>
+<channel id="ALZ">
+<display-name lang="pt">TV Alianzza</display-name>
+<icon src="alz.png"/>
+</channel>
+<channel id="AMB">
+<display-name lang="pt">TV Ambiental</display-name>
+<icon src="amb.png"/>
+</channel>
+<channel id="AMT">
+<display-name lang="pt">AMTV - Canal 18 Manaus</display-name>
+<icon src="amt.png"/>
+</channel>
+<channel id="AMZ">
+<display-name lang="pt">Amazonsat</display-name>
+<icon src="amz.png"/>
+</channel>
+<channel id="ANA">
+<display-name lang="pt">Canal An&#xE1;polis</display-name>
+<icon src="ana.png"/>
+</channel>
+<channel id="ANH">
+<display-name lang="pt">Lifetime HD</display-name>
+<icon src="anh.png"/>
+</channel>
+<channel id="ANT">
+<display-name lang="pt">TV Antares</display-name>
+<icon src="ant.png"/>
+</channel>
+<channel id="ANX">
+<display-name lang="pt">Lifetime</display-name>
+<icon src="anx.png"/>
+</channel>
+<channel id="APA">
+<display-name lang="pt">TV Aparecida</display-name>
+<icon src="apa.png"/>
+</channel>
+<channel id="APB">
+<display-name lang="pt">TV Baiana - TV Cultura</display-name>
+<icon src="apb.png"/>
+</channel>
+<channel id="APC">
+<display-name lang="pt">TV Aparecida (espelho)</display-name>
+<icon src="apc.png"/>
+</channel>
+<channel id="APG">
+<display-name lang="pt">TV Arapongas - Canal 25</display-name>
+<icon src="apg.png"/>
+</channel>
+<channel id="APH">
+<display-name lang="pt">TV Aparecida HD</display-name>
+<icon src="aph.png"/>
+</channel>
+<channel id="APL">
+<display-name lang="pt">Animal Planet</display-name>
+<icon src="apl.png"/>
+</channel>
+<channel id="APM">
+<display-name lang="pt">Animal Planet HD</display-name>
+<icon src="apm.png"/>
+</channel>
+<channel id="ARA">
+<display-name lang="pt">TV Ara&#xE7;&#xE1; - GTV</display-name>
+<icon src="ara.png"/>
+</channel>
+<channel id="ARG">
+<display-name lang="pt">TV Publica da Argentina</display-name>
+<icon src="arg.png"/>
+</channel>
+<channel id="ARN">
+<display-name lang="pt">Argumento News</display-name>
+<icon src="arn.png"/>
+</channel>
+<channel id="ART">
+<display-name lang="pt">Art Latino</display-name>
+<icon src="art.png"/>
+</channel>
+<channel id="ASF">
+<display-name lang="pt">Programa&#xE7;&#xE3;o TV Assembleia</display-name>
+<icon src="asf.png"/>
+</channel>
+<channel id="ASL">
+<display-name lang="pt">Assembleia S&#xE3;o Paulo</display-name>
+<icon src="asl.png"/>
+</channel>
+<channel id="ASM">
+<display-name lang="pt">Assembleia  -  Belo Horizonte</display-name>
+<icon src="asm.png"/>
+</channel>
+<channel id="ASP">
+<display-name lang="pt">ASSEMBLEIA S&#xC3;O PAULO (Capital)</display-name>
+<icon src="asp.png"/>
+</channel>
+<channel id="ASR">
+<display-name lang="pt">Rio TV C&#xE2;mara - C&#xE2;mara Municial - RJ</display-name>
+<icon src="asr.png"/>
+</channel>
+<channel id="ASV">
+<display-name lang="pt">Assembleia - Vit&#xF3;ria</display-name>
+<icon src="asv.png"/>
+</channel>
+<channel id="ATC">
+<display-name lang="pt">Atc Net Poa</display-name>
+<icon src="atc.png"/>
+</channel>
+<channel id="AXH">
+<display-name lang="pt">AXN HD</display-name>
+<icon src="axh.png"/>
+</channel>
+<channel id="AXN">
+<display-name lang="pt">AXN</display-name>
+<icon src="axn.png"/>
+</channel>
+<channel id="B01">
+<display-name lang="pt">Band VIVO</display-name>
+<icon src="b01.png"/>
+</channel>
+<channel id="B02">
+<display-name lang="pt">Band VIVO Alternativo</display-name>
+<icon src="b02.png"/>
+</channel>
+<channel id="B03">
+<display-name lang="pt">Band Alternativo</display-name>
+<icon src="b03.png"/>
+</channel>
+<channel id="B04">
+<display-name lang="pt">Band</display-name>
+<icon src="b04.png"/>
+</channel>
+<channel id="B05">
+<display-name lang="pt">BAND OITV NDS</display-name>
+<icon src="b05.png"/>
+</channel>
+<channel id="B06">
+<display-name lang="pt">BAND OITV NDS ALTERNATIVO</display-name>
+<icon src="b06.png"/>
+</channel>
+<channel id="B07">
+<display-name lang="pt">BAND MNLA OI</display-name>
+<icon src="b07.png"/>
+</channel>
+<channel id="B08">
+<display-name lang="pt">BAND MNLA ALTERNATIVO OI</display-name>
+<icon src="b08.png"/>
+</channel>
+<channel id="BAB">
+<display-name lang="pt">Baby TV</display-name>
+<icon src="bab.png"/>
+</channel>
+<channel id="BAC">
+<display-name lang="pt">Band Cascavel - PR - TV Taroba</display-name>
+<icon src="bac.png"/>
+</channel>
+<channel id="BAD">
+<display-name lang="pt">Band Cascavel - PR - TV Taroba HD</display-name>
+<icon src="bad.png"/>
+</channel>
+<channel id="BAN">
+<display-name lang="pt">Band</display-name>
+<icon src="ban.png"/>
+</channel>
+<channel id="BAP">
+<display-name lang="pt">Band Pernambuco - TV Tribuna</display-name>
+<icon src="bap.png"/>
+</channel>
+<channel id="BAQ">
+<display-name lang="pt">Band Pernambuco - TV Tribuna - HD</display-name>
+<icon src="baq.png"/>
+</channel>
+<channel id="BB1">
+<display-name lang="pt">Big Brother Brasil HD</display-name>
+<icon src="bb1.png"/>
+</channel>
+<channel id="BB2">
+<display-name lang="pt">BIG BROTHER 2</display-name>
+<icon src="bb2.png"/>
+</channel>
+<channel id="BB3">
+<display-name lang="pt">Big Brother Brasil 2 HD</display-name>
+<icon src="bb3.png"/>
+</channel>
+<channel id="BB4">
+<display-name lang="pt">Big Brother Brasil Net/Claro</display-name>
+<icon src="bb4.png"/>
+</channel>
+<channel id="BB5">
+<display-name lang="pt">Big Brother Brasil HD Net/Claro</display-name>
+<icon src="bb5.png"/>
+</channel>
+<channel id="BB6">
+<display-name lang="pt">Big Brother Brasil 2 HD Net/Claro</display-name>
+<icon src="bb6.png"/>
+</channel>
+<channel id="BB7">
+<display-name lang="pt">Mosaico BBB HD Net/Claro</display-name>
+<icon src="bb7.png"/>
+</channel>
+<channel id="BBA">
+<display-name lang="pt">Band Bahia</display-name>
+<icon src="bba.png"/>
+</channel>
+<channel id="BBB">
+<display-name lang="pt">Big Brother</display-name>
+<icon src="bbb.png"/>
+</channel>
+<channel id="BBC">
+<display-name lang="pt">BBC World News</display-name>
+<icon src="bbc.png"/>
+</channel>
+<channel id="BBD">
+<display-name lang="pt">Band Belo Horizonte - HD</display-name>
+<icon src="bbd.png"/>
+</channel>
+<channel id="BBE">
+<display-name lang="pt">Band Bahia - HD</display-name>
+<icon src="bbe.png"/>
+</channel>
+<channel id="BBH">
+<display-name lang="pt">Band Belo Horizonte</display-name>
+<icon src="bbh.png"/>
+</channel>
+<channel id="BBR">
+<display-name lang="pt">Band Bras&#xED;lia</display-name>
+<icon src="bbr.png"/>
+</channel>
+<channel id="BBT">
+<display-name lang="pt">TV Babitonga</display-name>
+<icon src="bbt.png"/>
+</channel>
+<channel id="BCA">
+<display-name lang="pt">Band Campinas</display-name>
+<icon src="bca.png"/>
+</channel>
+<channel id="BCG">
+<display-name lang="pt">Band Campo Grande</display-name>
+<icon src="bcg.png"/>
+</channel>
+<channel id="BCH">
+<display-name lang="pt">Band Campinas HD</display-name>
+<icon src="bch.png"/>
+</channel>
+<channel id="BCU">
+<display-name lang="pt">Band Curitiba</display-name>
+<icon src="bcu.png"/>
+</channel>
+<channel id="BDH">
+<display-name lang="pt">Band Bras&#xED;lia - HD</display-name>
+<icon src="bdh.png"/>
+</channel>
+<channel id="BDI">
+<display-name lang="pt">Band Interior</display-name>
+<icon src="bdi.png"/>
+</channel>
+<channel id="BDJ">
+<display-name lang="pt">Band Interior HD</display-name>
+<icon src="bdj.png"/>
+</channel>
+<channel id="BEM">
+<display-name lang="pt">Bem Simples</display-name>
+<icon src="bem.png"/>
+</channel>
+<channel id="BET">
+<display-name lang="pt">Bento TV</display-name>
+<icon src="bet.png"/>
+</channel>
+<channel id="BFH">
+<display-name lang="pt">TV Jangadeiro - Band Fortaleza - HD</display-name>
+<icon src="bfh.png"/>
+</channel>
+<channel id="BFO">
+<display-name lang="pt">TV Jangadeiro - Band Fortaleza</display-name>
+<icon src="bfo.png"/>
+</channel>
+<channel id="BGH">
+<display-name lang="pt">Band Campo Grande - HD</display-name>
+<icon src="bgh.png"/>
+</channel>
+<channel id="BGO">
+<display-name lang="pt">BAND Goiania</display-name>
+<icon src="bgo.png"/>
+</channel>
+<channel id="BGP">
+<display-name lang="pt">BAND Goiania HD</display-name>
+<icon src="bgp.png"/>
+</channel>
+<channel id="BHD">
+<display-name lang="pt">BBC EARTH HD</display-name>
+<icon src="bhd.png"/>
+</channel>
+<channel id="BHU">
+<display-name lang="pt">Band Curitiba - HD</display-name>
+<icon src="bhu.png"/>
+</channel>
+<channel id="BIG">
+<display-name lang="pt">Big Field TV</display-name>
+<icon src="big.png"/>
+</channel>
+<channel id="BIT">
+<display-name lang="pt">Bloomberg</display-name>
+<icon src="bit.png"/>
+</channel>
+<channel id="BIU">
+<display-name lang="pt">Bloomberg HD</display-name>
+<icon src="biu.png"/>
+</channel>
+<channel id="BLH">
+<display-name lang="pt">Band Litoral - HD</display-name>
+<icon src="blh.png"/>
+</channel>
+<channel id="BLI">
+<display-name lang="pt">Band Litoral</display-name>
+<icon src="bli.png"/>
+</channel>
+<channel id="BLL">
+<display-name lang="pt">Band Londrina - PR - TV Tarob&#xE1;</display-name>
+<icon src="bll.png"/>
+</channel>
+<channel id="BLM">
+<display-name lang="pt">Band Londrina - PR - TV Tarob&#xE1; HD</display-name>
+<icon src="blm.png"/>
+</channel>
+<channel id="BMF">
+<display-name lang="pt">Boomerang HD</display-name>
+<icon src="bmf.png"/>
+</channel>
+<channel id="BMG">
+<display-name lang="pt">Boomerang</display-name>
+<icon src="bmg.png"/>
+</channel>
+<channel id="BMH">
+<display-name lang="pt">Band Manaus HD</display-name>
+<icon src="bmh.png"/>
+</channel>
+<channel id="BMN">
+<display-name lang="pt">Band Manaus</display-name>
+<icon src="bmn.png"/>
+</channel>
+<channel id="BNA">
+<display-name lang="pt">Band Natal</display-name>
+<icon src="bna.png"/>
+</channel>
+<channel id="BNH">
+<display-name lang="pt">Band Natal HD</display-name>
+<icon src="bnh.png"/>
+</channel>
+<channel id="BOA">
+<display-name lang="pt">Rede Boas Novas - Net Manaus</display-name>
+<icon src="boa.png"/>
+</channel>
+<channel id="BOI">
+<display-name lang="pt">Canal Do Boi</display-name>
+<icon src="boi.png"/>
+</channel>
+<channel id="BOX">
+<display-name lang="pt">TV Box</display-name>
+<icon src="box.png"/>
+</channel>
+<channel id="BPA">
+<display-name lang="pt">Band Bel&#xE9;m - RBATV</display-name>
+<icon src="bpa.png"/>
+</channel>
+<channel id="BPD">
+<display-name lang="pt">Band Bel&#xE9;m HD - RBATV</display-name>
+<icon src="bpd.png"/>
+</channel>
+<channel id="BPH">
+<display-name lang="pt">Band S&#xE3;o Paulo - HD</display-name>
+<icon src="bph.png"/>
+</channel>
+<channel id="BPO">
+<display-name lang="pt">Band</display-name>
+<icon src="bpo.png"/>
+</channel>
+<channel id="BPP">
+<display-name lang="pt">Band</display-name>
+<icon src="bpp.png"/>
+</channel>
+<channel id="BPV">
+<display-name lang="pt">Band Porto Velho</display-name>
+<icon src="bpv.png"/>
+</channel>
+<channel id="BQ3">
+<display-name lang="pt">Canal Cabeq 3 - S&#xF3; NET</display-name>
+<icon src="bq3.png"/>
+</channel>
+<channel id="BQ4">
+<display-name lang="pt">Curta!</display-name>
+<icon src="bq4.png"/>
+</channel>
+<channel id="BQ5">
+<display-name lang="pt">Arte 1</display-name>
+<icon src="bq5.png"/>
+</channel>
+<channel id="BQ6">
+<display-name lang="pt">FishTV</display-name>
+<icon src="bq6.png"/>
+</channel>
+<channel id="BQ7">
+<display-name lang="pt">Prime Box Brasil</display-name>
+<icon src="bq7.png"/>
+</channel>
+<channel id="BQ8">
+<display-name lang="pt">Canal Cabeq 8</display-name>
+<icon src="bq8.png"/>
+</channel>
+<channel id="BQ9">
+<display-name lang="pt">Canal Cabeq 9</display-name>
+<icon src="bq9.png"/>
+</channel>
+<channel id="BQH">
+<display-name lang="pt">Prime Box Brasil</display-name>
+<icon src="bqh.png"/>
+</channel>
+<channel id="BRA">
+<display-name lang="pt">Film &amp; Arts</display-name>
+<icon src="bra.png"/>
+</channel>
+<channel id="BRD">
+<display-name lang="pt">Band Ribeir&#xE3;o Preto - HD</display-name>
+<icon src="brd.png"/>
+</channel>
+<channel id="BRH">
+<display-name lang="pt">Band Rio - HD</display-name>
+<icon src="brh.png"/>
+</channel>
+<channel id="BRI">
+<display-name lang="pt">TV Ativa Piracicaba</display-name>
+<icon src="bri.png"/>
+</channel>
+<channel id="BRJ">
+<display-name lang="pt">Band - Rio</display-name>
+<icon src="brj.png"/>
+</channel>
+<channel id="BRP">
+<display-name lang="pt">Band Ribeir&#xE3;o Preto</display-name>
+<icon src="brp.png"/>
+</channel>
+<channel id="BRS">
+<display-name lang="pt">Band - Sul</display-name>
+<icon src="brs.png"/>
+</channel>
+<channel id="BSC">
+<display-name lang="pt">Band Floripa</display-name>
+<icon src="bsc.png"/>
+</channel>
+<channel id="BSD">
+<display-name lang="pt">Band Sul - HD</display-name>
+<icon src="bsd.png"/>
+</channel>
+<channel id="BSH">
+<display-name lang="pt">Band SC - HD</display-name>
+<icon src="bsh.png"/>
+</channel>
+<channel id="BSJ">
+<display-name lang="pt">Band Vale</display-name>
+<icon src="bsj.png"/>
+</channel>
+<channel id="BSL">
+<display-name lang="pt">Band Vale - HD</display-name>
+<icon src="bsl.png"/>
+</channel>
+<channel id="BSP">
+<display-name lang="pt">Band Sports</display-name>
+<icon src="bsp.png"/>
+</channel>
+<channel id="BSU">
+<display-name lang="pt">Band Sports HD</display-name>
+<icon src="bsu.png"/>
+</channel>
+<channel id="BTH">
+<display-name lang="pt">BAND - Operadoras DTH</display-name>
+<icon src="bth.png"/>
+</channel>
+<channel id="BTV">
+<display-name lang="pt">Blue TV</display-name>
+<icon src="btv.png"/>
+</channel>
+<channel id="BVS">
+<display-name lang="pt">Band Vit&#xF3;ria - HD</display-name>
+<icon src="bvs.png"/>
+</channel>
+<channel id="BVT">
+<display-name lang="pt">Band Vit&#xF3;ria</display-name>
+<icon src="bvt.png"/>
+</channel>
+<channel id="BYU">
+<display-name lang="pt">BYU</display-name>
+<icon src="byu.png"/>
+</channel>
+<channel id="C12">
+<display-name lang="pt">Canal 12 - NET Criciuma</display-name>
+<icon src="c12.png"/>
+</channel>
+<channel id="C19">
+<display-name lang="pt">TV MAX</display-name>
+<icon src="c19.png"/>
+</channel>
+<channel id="C20">
+<display-name lang="pt">Multi TV - Canal 20 Londrina</display-name>
+<icon src="c20.png"/>
+</channel>
+<channel id="C21">
+<display-name lang="pt">Canal 21</display-name>
+<icon src="c21.png"/>
+</channel>
+<channel id="C24">
+<display-name lang="pt">TV Conceito</display-name>
+<icon src="c24.png"/>
+</channel>
+<channel id="C25">
+<display-name lang="pt">Canal 25 Net Jundia&#xED;</display-name>
+<icon src="c25.png"/>
+</channel>
+<channel id="C26">
+<display-name lang="pt">Canal 26</display-name>
+<icon src="c26.png"/>
+</channel>
+<channel id="C2X">
+<display-name lang="pt">Nossa TV</display-name>
+<icon src="c2x.png"/>
+</channel>
+<channel id="C37">
+<display-name lang="pt">Canal 37</display-name>
+<icon src="c37.png"/>
+</channel>
+<channel id="C8C">
+<display-name lang="pt">Canal 8 Campinas</display-name>
+<icon src="c8c.png"/>
+</channel>
+<channel id="CAA">
+<display-name lang="pt">TV C&#xE2;mara de Americana</display-name>
+<icon src="caa.png"/>
+</channel>
+<channel id="CAD">
+<display-name lang="pt">Canal Adulto</display-name>
+<icon src="cad.png"/>
+</channel>
+<channel id="CAG">
+<display-name lang="pt">TV C&#xE2;mara de Guarulhos NET</display-name>
+<icon src="cag.png"/>
+</channel>
+<channel id="CAH">
+<display-name lang="pt">Cartoon Network - HD</display-name>
+<icon src="cah.png"/>
+</channel>
+<channel id="CAJ">
+<display-name lang="pt">TV C&#xE2;mara Jahu</display-name>
+<icon src="caj.png"/>
+</channel>
+<channel id="CAM">
+<display-name lang="pt">TV C&#xE2;mara</display-name>
+<icon src="cam.png"/>
+</channel>
+<channel id="CAN">
+<display-name lang="pt">TV C&#xE2;mara Fortaleza</display-name>
+<icon src="can.png"/>
+</channel>
+<channel id="CAP">
+<display-name lang="pt">TV Capibaribe</display-name>
+<icon src="cap.png"/>
+</channel>
+<channel id="CAR">
+<display-name lang="pt">Cartoon Network</display-name>
+<icon src="car.png"/>
+</channel>
+<channel id="CAS">
+<display-name lang="pt">TV Camara de SJC</display-name>
+<icon src="cas.png"/>
+</channel>
+<channel id="CAT">
+<display-name lang="pt">Canal Local Cascavel - GTV</display-name>
+<icon src="cat.png"/>
+</channel>
+<channel id="CBC">
+<display-name lang="pt">Combocine</display-name>
+<icon src="cbc.png"/>
+</channel>
+<channel id="CBQ">
+<display-name lang="pt">Canal Brasil</display-name>
+<icon src="cbq.png"/>
+</channel>
+<channel id="CBR">
+<display-name lang="pt">Canal Brasil</display-name>
+<icon src="cbr.png"/>
+</channel>
+<channel id="CBS">
+<display-name lang="pt">Rede CBS</display-name>
+<icon src="cbs.png"/>
+</channel>
+<channel id="CCB">
+<display-name lang="pt">TV Intera&#xE7;&#xE3;o</display-name>
+<icon src="ccb.png"/>
+</channel>
+<channel id="CCC">
+<display-name lang="pt">TV Mantiqueira</display-name>
+<icon src="ccc.png"/>
+</channel>
+<channel id="CCE">
+<display-name lang="pt">Comedy Central</display-name>
+<icon src="cce.png"/>
+</channel>
+<channel id="CCH">
+<display-name lang="pt">Comedy Central HD</display-name>
+<icon src="cch.png"/>
+</channel>
+<channel id="CCJ">
+<display-name lang="pt">Canal Comunit&#xE1;rio Jacare&#xED; - SJC</display-name>
+<icon src="ccj.png"/>
+</channel>
+<channel id="CCL">
+<display-name lang="pt">Casa Club TV</display-name>
+<icon src="ccl.png"/>
+</channel>
+<channel id="CCM">
+<display-name lang="pt">Canal Comunit&#xE1;rio - Net RS</display-name>
+<icon src="ccm.png"/>
+</channel>
+<channel id="CCO">
+<display-name lang="pt">Canal Comunit TVA - TV Aberta</display-name>
+<icon src="cco.png"/>
+</channel>
+<channel id="CCS">
+<display-name lang="pt">Canal Comunit&#xE1;rio - S&#xE3;o Carlos</display-name>
+<icon src="ccs.png"/>
+</channel>
+<channel id="CCX">
+<display-name lang="pt">TV Comunit&#xE1;ria de Caxias</display-name>
+<icon src="ccx.png"/>
+</channel>
+<channel id="CDM">
+<display-name lang="pt">TV Cidadania - Teresina</display-name>
+<icon src="cdm.png"/>
+</channel>
+<channel id="CEA">
+<display-name lang="pt">TV Cear&#xE1;</display-name>
+<icon src="cea.png"/>
+</channel>
+<channel id="CEI">
+<display-name lang="pt">TV Cei</display-name>
+<icon src="cei.png"/>
+</channel>
+<channel id="CER">
+<display-name lang="pt">TV Cear</display-name>
+<icon src="cer.png"/>
+</channel>
+<channel id="CES">
+<display-name lang="pt">TV  Cesumar - Maring&#xE1;</display-name>
+<icon src="ces.png"/>
+</channel>
+<channel id="CEV">
+<display-name lang="pt">Canal De Eventos TVA Curitiba</display-name>
+<icon src="cev.png"/>
+</channel>
+<channel id="CFL">
+<display-name lang="pt">Canal Folha</display-name>
+<icon src="cfl.png"/>
+</channel>
+<channel id="CFX">
+<display-name lang="pt">FX</display-name>
+<icon src="cfx.png"/>
+</channel>
+<channel id="CFZ">
+<display-name lang="pt">Canal FX HD</display-name>
+<icon src="cfz.png"/>
+</channel>
+<channel id="CH1">
+<display-name lang="pt">H2 HD</display-name>
+<icon src="ch1.png"/>
+</channel>
+<channel id="CH2">
+<display-name lang="pt">H2</display-name>
+<icon src="ch2.png"/>
+</channel>
+<channel id="CHD">
+<display-name lang="pt">Cultura HD</display-name>
+<icon src="chd.png"/>
+</channel>
+<channel id="CHE">
+<display-name lang="pt">Chef TV</display-name>
+<icon src="che.png"/>
+</channel>
+<channel id="CIA">
+<display-name lang="pt">TV Cianorte</display-name>
+<icon src="cia.png"/>
+</channel>
+<channel id="CID">
+<display-name lang="pt">TV Cidade</display-name>
+<icon src="cid.png"/>
+</channel>
+<channel id="CLC">
+<display-name lang="pt">Canal Local - Net</display-name>
+<icon src="clc.png"/>
+</channel>
+<channel id="CLI">
+<display-name lang="pt">Climatempo</display-name>
+<icon src="cli.png"/>
+</channel>
+<channel id="CLR">
+<display-name lang="pt">Canal 20 TV - Local Ribeir&#xE3;o Preto</display-name>
+<icon src="clr.png"/>
+</channel>
+<channel id="CLS">
+<display-name lang="pt">Canal Local NET Sorocaba - TVR</display-name>
+<icon src="cls.png"/>
+</channel>
+<channel id="CLV">
+<display-name lang="pt">CentralTV</display-name>
+<icon src="clv.png"/>
+</channel>
+<channel id="CMG">
+<display-name lang="pt">TV Campos de Minas</display-name>
+<icon src="cmg.png"/>
+</channel>
+<channel id="CMI">
+<display-name lang="pt">Cada Minuto</display-name>
+<icon src="cmi.png"/>
+</channel>
+<channel id="CML">
+<display-name lang="pt">C&#xE2;mara Municipal - Local</display-name>
+<icon src="cml.png"/>
+</channel>
+<channel id="CMO">
+<display-name lang="pt">Rede Comunidade TV - Canoas</display-name>
+<icon src="cmo.png"/>
+</channel>
+<channel id="CMS">
+<display-name lang="pt">Rede Comunidade TV - Sao Leopoldo</display-name>
+<icon src="cms.png"/>
+</channel>
+<channel id="CMU">
+<display-name lang="pt">Canal Comunit&#xE1;rio</display-name>
+<icon src="cmu.png"/>
+</channel>
+<channel id="CMV">
+<display-name lang="pt">Canal Comunit&#xE1;rio - Cap&#xE3;o da Canoa</display-name>
+<icon src="cmv.png"/>
+</channel>
+<channel id="CN2">
+<display-name lang="pt">Canal 20 - Net Florian&#xF3;polis</display-name>
+<icon src="cn2.png"/>
+</channel>
+<channel id="CN3">
+<display-name lang="pt">Master TV - GTV Cascavel</display-name>
+<icon src="cn3.png"/>
+</channel>
+<channel id="CN6">
+<display-name lang="pt">Canal 21 - Rede Mercosul - Curitiba</display-name>
+<icon src="cn6.png"/>
+</channel>
+<channel id="CN7">
+<display-name lang="pt">Canal 21 - Rede Mercosul HD</display-name>
+<icon src="cn7.png"/>
+</channel>
+<channel id="CNA">
+<display-name lang="pt">CNT Americana</display-name>
+<icon src="cna.png"/>
+</channel>
+<channel id="CNB">
+<display-name lang="pt">Cine Brasil TV</display-name>
+<icon src="cnb.png"/>
+</channel>
+<channel id="CNC">
+<display-name lang="pt">CNT - Curitiba</display-name>
+<icon src="cnc.png"/>
+</channel>
+<channel id="CNE">
+<display-name lang="pt">CNN Espa&#xF1;ol</display-name>
+<icon src="cne.png"/>
+</channel>
+<channel id="CNH">
+<display-name lang="pt">Can&#xE7;&#xE3;o Nova HD</display-name>
+<icon src="cnh.png"/>
+</channel>
+<channel id="CNL">
+<display-name lang="pt">CNT Londrina</display-name>
+<icon src="cnl.png"/>
+</channel>
+<channel id="CNN">
+<display-name lang="pt">CNN International</display-name>
+<icon src="cnn.png"/>
+</channel>
+<channel id="CNR">
+<display-name lang="pt">CNT Rio</display-name>
+<icon src="cnr.png"/>
+</channel>
+<channel id="CNS">
+<display-name lang="pt">CNT Salvador</display-name>
+<icon src="cns.png"/>
+</channel>
+<channel id="CNT">
+<display-name lang="pt">CNT</display-name>
+<icon src="cnt.png"/>
+</channel>
+<channel id="CNU">
+<display-name lang="pt">Canal Universit&#xE1;rio SP</display-name>
+<icon src="cnu.png"/>
+</channel>
+<channel id="CNV">
+<display-name lang="pt">Can&#xE7;&#xE3;o Nova</display-name>
+<icon src="cnv.png"/>
+</channel>
+<channel id="CNX">
+<display-name lang="pt">Canal X</display-name>
+<icon src="cnx.png"/>
+</channel>
+<channel id="COB">
+<display-name lang="pt">Conex&#xE3;o BR</display-name>
+<icon src="cob.png"/>
+</channel>
+<channel id="COF">
+<display-name lang="pt">Canal de Ofertas -Mega Tv R.Preto</display-name>
+<icon src="cof.png"/>
+</channel>
+<channel id="COM">
+<display-name lang="pt">TV Com - Porto Alegre</display-name>
+<icon src="com.png"/>
+</channel>
+<channel id="CON">
+<display-name lang="pt">TV COM - PORTO ALEGRE (Passo Fundo)</display-name>
+<icon src="con.png"/>
+</channel>
+<channel id="COR">
+<display-name lang="pt">TV Cor&#xE9;ia</display-name>
+<icon src="cor.png"/>
+</channel>
+<channel id="CQ7">
+<display-name lang="pt">CQ7 TV - Caxias do Sul</display-name>
+<icon src="cq7.png"/>
+</channel>
+<channel id="CSP">
+<display-name lang="pt">Blue TV S&#xE3;o Paulo</display-name>
+<icon src="csp.png"/>
+</channel>
+<channel id="CTC">
+<display-name lang="pt">TV Cantareira</display-name>
+<icon src="ctc.png"/>
+</channel>
+<channel id="CTV">
+<display-name lang="pt">TVT</display-name>
+<icon src="ctv.png"/>
+</channel>
+<channel id="CUB">
+<display-name lang="pt">TV Cultura Bel&#xE9;m</display-name>
+<icon src="cub.png"/>
+</channel>
+<channel id="CUI">
+<display-name lang="pt">TV Cultura de Ipatinga</display-name>
+<icon src="cui.png"/>
+</channel>
+<channel id="CUL">
+<display-name lang="pt">TV Cultura</display-name>
+<icon src="cul.png"/>
+</channel>
+<channel id="CUR">
+<display-name lang="pt">Canal Universit&#xE1;rio Ribeir&#xE3;o Preto</display-name>
+<icon src="cur.png"/>
+</channel>
+<channel id="CWB">
+<display-name lang="pt">CWB TV Curitiba</display-name>
+<icon src="cwb.png"/>
+</channel>
+<channel id="DCI">
+<display-name lang="pt">Discovery Civilization</display-name>
+<icon src="dci.png"/>
+</channel>
+<channel id="DEK">
+<display-name lang="pt">TV Desktop</display-name>
+<icon src="dek.png"/>
+</channel>
+<channel id="DHD">
+<display-name lang="pt">Discovery HD Theater</display-name>
+<icon src="dhd.png"/>
+</channel>
+<channel id="DIH">
+<display-name lang="pt">Discovery Channel HD</display-name>
+<icon src="dih.png"/>
+</channel>
+<channel id="DIK">
+<display-name lang="pt">Discovery Kids</display-name>
+<icon src="dik.png"/>
+</channel>
+<channel id="DIS">
+<display-name lang="pt">Discovery</display-name>
+<icon src="dis.png"/>
+</channel>
+<channel id="DIW">
+<display-name lang="pt">Discovery World HD</display-name>
+<icon src="diw.png"/>
+</channel>
+<channel id="DKH">
+<display-name lang="pt">Discovery Kids HD</display-name>
+<icon src="dkh.png"/>
+</channel>
+<channel id="DNH">
+<display-name lang="pt">Disney Channel HD</display-name>
+<icon src="dnh.png"/>
+</channel>
+<channel id="DNY">
+<display-name lang="pt">Disney Channel</display-name>
+<icon src="dny.png"/>
+</channel>
+<channel id="DSC">
+<display-name lang="pt">Discovery Science</display-name>
+<icon src="dsc.png"/>
+</channel>
+<channel id="DST">
+<display-name lang="pt">Canal Destaques Guarulhos</display-name>
+<icon src="dst.png"/>
+</channel>
+<channel id="DTS">
+<display-name lang="pt">Discovery Turbo HD</display-name>
+<icon src="dts.png"/>
+</channel>
+<channel id="DTU">
+<display-name lang="pt">Discovery Turbo</display-name>
+<icon src="dtu.png"/>
+</channel>
+<channel id="DWL">
+<display-name lang="pt">DW-TV</display-name>
+<icon src="dwl.png"/>
+</channel>
+<channel id="DXD">
+<display-name lang="pt">Disney XD</display-name>
+<icon src="dxd.png"/>
+</channel>
+<channel id="EBH">
+<display-name lang="pt">ESPN Brasil HD</display-name>
+<icon src="ebh.png"/>
+</channel>
+<channel id="EBT">
+<display-name lang="pt">Via Embratel</display-name>
+<icon src="ebt.png"/>
+</channel>
+<channel id="ECO">
+<display-name lang="pt">Eco</display-name>
+<icon src="eco.png"/>
+</channel>
+<channel id="EDU">
+<display-name lang="pt">Tv Educativa Local</display-name>
+<icon src="edu.png"/>
+</channel>
+<channel id="EEH">
+<display-name lang="pt">E! HD</display-name>
+<icon src="eeh.png"/>
+</channel>
+<channel id="EET">
+<display-name lang="pt">E!</display-name>
+<icon src="eet.png"/>
+</channel>
+<channel id="EMS">
+<display-name lang="pt">Canal E+</display-name>
+<icon src="ems.png"/>
+</channel>
+<channel id="ENW">
+<display-name lang="pt">Euronews</display-name>
+<icon src="enw.png"/>
+</channel>
+<channel id="EPH">
+<display-name lang="pt">Globo Campinas HD</display-name>
+<icon src="eph.png"/>
+</channel>
+<channel id="ERE">
+<display-name lang="pt">TV Erechim</display-name>
+<icon src="ere.png"/>
+</channel>
+<channel id="ESB">
+<display-name lang="pt">ESPN Brasil</display-name>
+<icon src="esb.png"/>
+</channel>
+<channel id="ESC">
+<display-name lang="pt">TV Escola</display-name>
+<icon src="esc.png"/>
+</channel>
+<channel id="ESH">
+<display-name lang="pt">ESPN+ HD</display-name>
+<icon src="esh.png"/>
+</channel>
+<channel id="ESI">
+<display-name lang="pt">ESPN+  SD</display-name>
+<icon src="esi.png"/>
+</channel>
+<channel id="ESP">
+<display-name lang="pt">ESPN</display-name>
+<icon src="esp.png"/>
+</channel>
+<channel id="ESQ">
+<display-name lang="pt">ESPN HD</display-name>
+<icon src="esq.png"/>
+</channel>
+<channel id="ESR">
+<display-name lang="pt">ESPN EXTRA</display-name>
+<icon src="esr.png"/>
+</channel>
+<channel id="EST">
+<display-name lang="pt">Canal de Las Estrellas</display-name>
+<icon src="est.png"/>
+</channel>
+<channel id="ETH">
+<display-name lang="pt">Globo Ribeir&#xE3;o Preto - HD</display-name>
+<icon src="eth.png"/>
+</channel>
+<channel id="ETV">
+<display-name lang="pt">&#xE9;TV</display-name>
+<icon src="etv.png"/>
+</channel>
+<channel id="EUR">
+<display-name lang="pt">Eurochannel</display-name>
+<icon src="eur.png"/>
+</channel>
+<channel id="EV1">
+<display-name lang="pt">Canal Eventual Net</display-name>
+<icon src="ev1.png"/>
+</channel>
+<channel id="EV2">
+<display-name lang="pt">Canal Eventual Net</display-name>
+<icon src="ev2.png"/>
+</channel>
+<channel id="EV3">
+<display-name lang="pt">Canal Eventual Net Florianopolis</display-name>
+<icon src="ev3.png"/>
+</channel>
+<channel id="EVG">
+<display-name lang="pt">Evangelizar</display-name>
+<icon src="evg.png"/>
+</channel>
+<channel id="EVH">
+<display-name lang="pt">Evangelizar HD</display-name>
+<icon src="evh.png"/>
+</channel>
+<channel id="F24">
+<display-name lang="pt">France 24</display-name>
+<icon src="f24.png"/>
+</channel>
+<channel id="FAS">
+<display-name lang="pt">Glitz*</display-name>
+<icon src="fas.png"/>
+</channel>
+<channel id="FEE">
+<display-name lang="pt">Feevale - Universit&#xE1;rio Novo Hamburgo</display-name>
+<icon src="fee.png"/>
+</channel>
+<channel id="FHD">
+<display-name lang="pt">Fox / NatGeo HD</display-name>
+<icon src="fhd.png"/>
+</channel>
+<channel id="FLH">
+<display-name lang="pt">Fox Life HD</display-name>
+<icon src="flh.png"/>
+</channel>
+<channel id="FLI">
+<display-name lang="pt">Fox Life</display-name>
+<icon src="fli.png"/>
+</channel>
+<channel id="FLO">
+<display-name lang="pt">Tv Floripa - Net</display-name>
+<icon src="flo.png"/>
+</channel>
+<channel id="FLU">
+<display-name lang="pt">O Fluminense</display-name>
+<icon src="flu.png"/>
+</channel>
+<channel id="FNE">
+<display-name lang="pt">Fox News</display-name>
+<icon src="fne.png"/>
+</channel>
+<channel id="FNT">
+<display-name lang="pt">Fonte TV</display-name>
+<icon src="fnt.png"/>
+</channel>
+<channel id="FO1">
+<display-name lang="pt">Fox Premium</display-name>
+<icon src="fo1.png"/>
+</channel>
+<channel id="FO2">
+<display-name lang="pt">Fox Premium HD</display-name>
+<icon src="fo2.png"/>
+</channel>
+<channel id="FOA">
+<display-name lang="pt">Fox Premium 2</display-name>
+<icon src="foa.png"/>
+</channel>
+<channel id="FOB">
+<display-name lang="pt">Fox Premium 2 HD</display-name>
+<icon src="fob.png"/>
+</channel>
+<channel id="FOD">
+<display-name lang="pt">Food Network HD</display-name>
+<icon src="fod.png"/>
+</channel>
+<channel id="FON">
+<display-name lang="pt">Fonte da Vida - NET Goi&#xE2;nia</display-name>
+<icon src="fon.png"/>
+</channel>
+<channel id="FOW">
+<display-name lang="pt">Fox HD</display-name>
+<icon src="fow.png"/>
+</channel>
+<channel id="FOX">
+<display-name lang="pt">Fox</display-name>
+<icon src="fox.png"/>
+</channel>
+<channel id="FRA">
+<display-name lang="pt">TV Fanca</display-name>
+<icon src="fra.png"/>
+</channel>
+<channel id="FRG">
+<display-name lang="pt">FURB TV - Rio Grande</display-name>
+<icon src="frg.png"/>
+</channel>
+<channel id="FS1">
+<display-name lang="pt">Fox Sports 2 HD</display-name>
+<icon src="fs1.png"/>
+</channel>
+<channel id="FS2">
+<display-name lang="pt">Fox Sports 2</display-name>
+<icon src="fs2.png"/>
+</channel>
+<channel id="FSH">
+<display-name lang="pt">Fox Sports HD</display-name>
+<icon src="fsh.png"/>
+</channel>
+<channel id="FSP">
+<display-name lang="pt">Fox Sports</display-name>
+<icon src="fsp.png"/>
+</channel>
+<channel id="FTV">
+<display-name lang="pt">FashionTV Brasil</display-name>
+<icon src="ftv.png"/>
+</channel>
+<channel id="FUR">
+<display-name lang="pt">Furb Tv - Blumenau</display-name>
+<icon src="fur.png"/>
+</channel>
+<channel id="FUT">
+<display-name lang="pt">Futura</display-name>
+<icon src="fut.png"/>
+</channel>
+<channel id="FUU">
+<display-name lang="pt">Futura HD</display-name>
+<icon src="fuu.png"/>
+</channel>
+<channel id="FZD">
+<display-name lang="pt">A Fazenda</display-name>
+<icon src="fzd.png"/>
+</channel>
+<channel id="G16">
+<display-name lang="pt">Tela Net</display-name>
+<icon src="g16.png"/>
+</channel>
+<channel id="GAL">
+<display-name lang="pt">Tv Galega - Blumenau</display-name>
+<icon src="gal.png"/>
+</channel>
+<channel id="GAM">
+<display-name lang="pt">Games Interativos Net</display-name>
+<icon src="gam.png"/>
+</channel>
+<channel id="GAW">
+<display-name lang="pt">Gazeta HD</display-name>
+<icon src="gaw.png"/>
+</channel>
+<channel id="GAZ">
+<display-name lang="pt">Gazeta</display-name>
+<icon src="gaz.png"/>
+</channel>
+<channel id="GBA">
+<display-name lang="pt">Globo Arax&#xE1;</display-name>
+<icon src="gba.png"/>
+</channel>
+<channel id="GBB">
+<display-name lang="pt">TV Bahia</display-name>
+<icon src="gbb.png"/>
+</channel>
+<channel id="GBC">
+<display-name lang="pt">TV Santa Cruz</display-name>
+<icon src="gbc.png"/>
+</channel>
+<channel id="GBD">
+<display-name lang="pt">TV Bahia - HD</display-name>
+<icon src="gbd.png"/>
+</channel>
+<channel id="GBF">
+<display-name lang="pt">TV Verdes Mares</display-name>
+<icon src="gbf.png"/>
+</channel>
+<channel id="GBG">
+<display-name lang="pt">Globo Goi&#xE1;s - TV Anhanguera</display-name>
+<icon src="gbg.png"/>
+</channel>
+<channel id="GBH">
+<display-name lang="pt">Globo Minas - HD</display-name>
+<icon src="gbh.png"/>
+</channel>
+<channel id="GBI">
+<display-name lang="pt">Globo Ituiutaba (MG)</display-name>
+<icon src="gbi.png"/>
+</channel>
+<channel id="GBL">
+<display-name lang="pt">Inter TV dos Vales - C. Fabriciano</display-name>
+<icon src="gbl.png"/>
+</channel>
+<channel id="GBM">
+<display-name lang="pt">Globo Minas</display-name>
+<icon src="gbm.png"/>
+</channel>
+<channel id="GBN">
+<display-name lang="pt">Globo Natal</display-name>
+<icon src="gbn.png"/>
+</channel>
+<channel id="GBO">
+<display-name lang="pt">Globo Natal - HD</display-name>
+<icon src="gbo.png"/>
+</channel>
+<channel id="GBP">
+<display-name lang="pt">Globo Itubiara (GO)</display-name>
+<icon src="gbp.png"/>
+</channel>
+<channel id="GBQ">
+<display-name lang="pt">Inter TV Grande Minas</display-name>
+<icon src="gbq.png"/>
+</channel>
+<channel id="GBR">
+<display-name lang="pt">Globo Uberl&#xE2;ndia</display-name>
+<icon src="gbr.png"/>
+</channel>
+<channel id="GBS">
+<display-name lang="pt">Globo Uberl&#xE2;ndia HD</display-name>
+<icon src="gbs.png"/>
+</channel>
+<channel id="GBU">
+<display-name lang="pt">TV TEM Bauru</display-name>
+<icon src="gbu.png"/>
+</channel>
+<channel id="GBV">
+<display-name lang="pt">Globo Boa Vista - TV Roraima</display-name>
+<icon src="gbv.png"/>
+</channel>
+<channel id="GBX">
+<display-name lang="pt">Globo Bauru HD</display-name>
+<icon src="gbx.png"/>
+</channel>
+<channel id="GCB">
+<display-name lang="pt">Globo TV Centro America</display-name>
+<icon src="gcb.png"/>
+</channel>
+<channel id="GCC">
+<display-name lang="pt">Globo Cuiab&#xE1; - TV Centro Am&#xE9;rica HD</display-name>
+<icon src="gcc.png"/>
+</channel>
+<channel id="GCG">
+<display-name lang="pt">Globo Campo Grande - TV Morena</display-name>
+<icon src="gcg.png"/>
+</channel>
+<channel id="GCH">
+<display-name lang="pt">Globo Campo Grande - TV Morena HD</display-name>
+<icon src="gch.png"/>
+</channel>
+<channel id="GCP">
+<display-name lang="pt">Globo Macap&#xE1;</display-name>
+<icon src="gcp.png"/>
+</channel>
+<channel id="GCR">
+<display-name lang="pt">Globo EPTV Sao Carlos</display-name>
+<icon src="gcr.png"/>
+</channel>
+<channel id="GCS">
+<display-name lang="pt">Globo S&#xE3;o Carlos - HD</display-name>
+<icon src="gcs.png"/>
+</channel>
+<channel id="GGH">
+<display-name lang="pt">Globo Goi&#xE1;s - HD</display-name>
+<icon src="ggh.png"/>
+</channel>
+<channel id="GGV">
+<display-name lang="pt">Globo Governador Valadares</display-name>
+<icon src="ggv.png"/>
+</channel>
+<channel id="GGW">
+<display-name lang="pt">Globo Governador Valadares HD</display-name>
+<icon src="ggw.png"/>
+</channel>
+<channel id="GHB">
+<display-name lang="pt">Globo Brasilia - HD</display-name>
+<icon src="ghb.png"/>
+</channel>
+<channel id="GHD">
+<display-name lang="pt">Globosat HDTV</display-name>
+<icon src="ghd.png"/>
+</channel>
+<channel id="GHF">
+<display-name lang="pt">Globo Fortaleza - HD</display-name>
+<icon src="ghf.png"/>
+</channel>
+<channel id="GHS">
+<display-name lang="pt">+Globosat - Vers&#xE3;o SD</display-name>
+<icon src="ghs.png"/>
+</channel>
+<channel id="GJF">
+<display-name lang="pt">Globo Juiz de Fora</display-name>
+<icon src="gjf.png"/>
+</channel>
+<channel id="GJG">
+<display-name lang="pt">Globo Juiz de Fora - HD</display-name>
+<icon src="gjg.png"/>
+</channel>
+<channel id="GJH">
+<display-name lang="pt">Globo Jo&#xE3;o Pessoa - HD</display-name>
+<icon src="gjh.png"/>
+</channel>
+<channel id="GJP">
+<display-name lang="pt">Globo Jo&#xE3;o Pessoa - TV Cabo Branco</display-name>
+<icon src="gjp.png"/>
+</channel>
+<channel id="GJR">
+<display-name lang="pt">TV TEM S.J. Rio Preto</display-name>
+<icon src="gjr.png"/>
+</channel>
+<channel id="GLB">
+<display-name lang="pt">Globo Bras&#xED;lia</display-name>
+<icon src="glb.png"/>
+</channel>
+<channel id="GLH">
+<display-name lang="pt">Globo S&#xE3;o Paulo - HD</display-name>
+<icon src="glh.png"/>
+</channel>
+<channel id="GLI">
+<display-name lang="pt">Globo HD</display-name>
+<icon src="gli.png"/>
+</channel>
+<channel id="GLN">
+<display-name lang="pt">Globo News HD</display-name>
+<icon src="gln.png"/>
+</channel>
+<channel id="GLO">
+<display-name lang="pt">Globo News HD</display-name>
+<icon src="glo.png"/>
+</channel>
+<channel id="GLS">
+<display-name lang="pt">For Man</display-name>
+<icon src="gls.png"/>
+</channel>
+<channel id="GMA">
+<display-name lang="pt">Globo Maceio - TV Gazeta Alagoas</display-name>
+<icon src="gma.png"/>
+</channel>
+<channel id="GMH">
+<display-name lang="pt">Globo Maceio HD</display-name>
+<icon src="gmh.png"/>
+</channel>
+<channel id="GMN">
+<display-name lang="pt">Globo Manaus - TV Amazonas</display-name>
+<icon src="gmn.png"/>
+</channel>
+<channel id="GNH">
+<display-name lang="pt">Globo Manaus HD - TV Amazonas</display-name>
+<icon src="gnh.png"/>
+</channel>
+<channel id="GNI">
+<display-name lang="pt">Globo Guarapuava</display-name>
+<icon src="gni.png"/>
+</channel>
+<channel id="GNJ">
+<display-name lang="pt">Globo Guarapuava - HD</display-name>
+<icon src="gnj.png"/>
+</channel>
+<channel id="GNT">
+<display-name lang="pt">GNT</display-name>
+<icon src="gnt.png"/>
+</channel>
+<channel id="GNU">
+<display-name lang="pt">GNT HD</display-name>
+<icon src="gnu.png"/>
+</channel>
+<channel id="GOB">
+<display-name lang="pt">Gloob</display-name>
+<icon src="gob.png"/>
+</channel>
+<channel id="GOC">
+<display-name lang="pt">Gloob - S&#xF3; Goi&#xE2;nia</display-name>
+<icon src="goc.png"/>
+</channel>
+<channel id="GOH">
+<display-name lang="pt">Gloob HD</display-name>
+<icon src="goh.png"/>
+</channel>
+<channel id="GOS">
+<display-name lang="pt">Rede Gospel</display-name>
+<icon src="gos.png"/>
+</channel>
+<channel id="GPA">
+<display-name lang="pt">Globo Par&#xE1; (Bel&#xE9;m) - TV Liberal</display-name>
+<icon src="gpa.png"/>
+</channel>
+<channel id="GPB">
+<display-name lang="pt">Globo Par&#xE1; (Bel&#xE9;m) - TV Liberal HD</display-name>
+<icon src="gpb.png"/>
+</channel>
+<channel id="GPE">
+<display-name lang="pt">Globo Nordeste</display-name>
+<icon src="gpe.png"/>
+</channel>
+<channel id="GPF">
+<display-name lang="pt">TV Asa Branca</display-name>
+<icon src="gpf.png"/>
+</channel>
+<channel id="GPH">
+<display-name lang="pt">Globo Recife - PE - HD</display-name>
+<icon src="gph.png"/>
+</channel>
+<channel id="GPI">
+<display-name lang="pt">Globo Piau&#xED;</display-name>
+<icon src="gpi.png"/>
+</channel>
+<channel id="GPJ">
+<display-name lang="pt">Globo Piau&#xED; - HD</display-name>
+<icon src="gpj.png"/>
+</channel>
+<channel id="GPL">
+<display-name lang="pt">Globo Palmas</display-name>
+<icon src="gpl.png"/>
+</channel>
+<channel id="GPU">
+<display-name lang="pt">Globo Porto Velho - TV Rondonia HD</display-name>
+<icon src="gpu.png"/>
+</channel>
+<channel id="GPV">
+<display-name lang="pt">Globo Porto Velho - TV Rondonia</display-name>
+<icon src="gpv.png"/>
+</channel>
+<channel id="GRB">
+<display-name lang="pt">Globo Rio Branco</display-name>
+<icon src="grb.png"/>
+</channel>
+<channel id="GRC">
+<display-name lang="pt">Globo EPTV Campinas</display-name>
+<icon src="grc.png"/>
+</channel>
+<channel id="GRD">
+<display-name lang="pt">Globo Rede</display-name>
+<icon src="grd.png"/>
+</channel>
+<channel id="GRE">
+<display-name lang="pt">Globo Rezende - TV Rio Sul</display-name>
+<icon src="gre.png"/>
+</channel>
+<channel id="GRH">
+<display-name lang="pt">Globo RJ HD</display-name>
+<icon src="grh.png"/>
+</channel>
+<channel id="GRJ">
+<display-name lang="pt">Globo RJ</display-name>
+<icon src="grj.png"/>
+</channel>
+<channel id="GRK">
+<display-name lang="pt">Inter TV Alto Litoral (Oi) - Cabo Frio</display-name>
+<icon src="grk.png"/>
+</channel>
+<channel id="GRL">
+<display-name lang="pt">Inter TV Serra Mar (Oi) - N. Friburgo</display-name>
+<icon src="grl.png"/>
+</channel>
+<channel id="GRN">
+<display-name lang="pt">Radio Grenal</display-name>
+<icon src="grn.png"/>
+</channel>
+<channel id="GRP">
+<display-name lang="pt">EPTV Ribeir&#xE3;o Preto</display-name>
+<icon src="grp.png"/>
+</channel>
+<channel id="GSA">
+<display-name lang="pt">RBS TV Crici&#xFA;ma</display-name>
+<icon src="gsa.png"/>
+</channel>
+<channel id="GSB">
+<display-name lang="pt">RBS TV Joinville</display-name>
+<icon src="gsb.png"/>
+</channel>
+<channel id="GSC">
+<display-name lang="pt">Globo Santa Catarina - Floripa</display-name>
+<icon src="gsc.png"/>
+</channel>
+<channel id="GSD">
+<display-name lang="pt">RBS TV Blumenau (OI)</display-name>
+<icon src="gsd.png"/>
+</channel>
+<channel id="GSE">
+<display-name lang="pt">Globo Aracaj&#xFA;</display-name>
+<icon src="gse.png"/>
+</channel>
+<channel id="GSF">
+<display-name lang="pt">Globo Aracaju - Sergipe - HD</display-name>
+<icon src="gsf.png"/>
+</channel>
+<channel id="GSG">
+<display-name lang="pt">RBS TV Joa&#xE7;aba</display-name>
+<icon src="gsg.png"/>
+</channel>
+<channel id="GSH">
+<display-name lang="pt">Globo Sta Catarina HD</display-name>
+<icon src="gsh.png"/>
+</channel>
+<channel id="GSI">
+<display-name lang="pt">RBS TV Chapec&#xF3;</display-name>
+<icon src="gsi.png"/>
+</channel>
+<channel id="GSL">
+<display-name lang="pt">Globo S&#xE3;o Lu&#xED;s - TV Mirante</display-name>
+<icon src="gsl.png"/>
+</channel>
+<channel id="GSM">
+<display-name lang="pt">Globo S&#xE3;o Luiz - TV Mirante -HD</display-name>
+<icon src="gsm.png"/>
+</channel>
+<channel id="GSP">
+<display-name lang="pt">Globo SP</display-name>
+<icon src="gsp.png"/>
+</channel>
+<channel id="GSQ">
+<display-name lang="pt">TV Fronteira (Presidente Prudente)</display-name>
+<icon src="gsq.png"/>
+</channel>
+<channel id="GSR">
+<display-name lang="pt">Globo Presidente Prudente - HD</display-name>
+<icon src="gsr.png"/>
+</channel>
+<channel id="GTA">
+<display-name lang="pt">TV Vanguarda Taubat&#xE9;</display-name>
+<icon src="gta.png"/>
+</channel>
+<channel id="GTB">
+<display-name lang="pt">TV Vanguarda Taubat&#xE9; - HD</display-name>
+<icon src="gtb.png"/>
+</channel>
+<channel id="GTH">
+<display-name lang="pt">Globo Vit&#xF3;ria - Rede Gazeta HD</display-name>
+<icon src="gth.png"/>
+</channel>
+<channel id="GTV">
+<display-name lang="pt">Globo Vit&#xF3;ria - Rede Gazeta</display-name>
+<icon src="gtv.png"/>
+</channel>
+<channel id="GTW">
+<display-name lang="pt">TV Gazeta Sul</display-name>
+<icon src="gtw.png"/>
+</channel>
+<channel id="GUA">
+<display-name lang="pt">Record - Poa</display-name>
+<icon src="gua.png"/>
+</channel>
+<channel id="GUB">
+<display-name lang="pt">Globo Uberaba</display-name>
+<icon src="gub.png"/>
+</channel>
+<channel id="GUC">
+<display-name lang="pt">Globo Uberaba HD</display-name>
+<icon src="guc.png"/>
+</channel>
+<channel id="GUH">
+<display-name lang="pt">Record - Poa HD</display-name>
+<icon src="guh.png"/>
+</channel>
+<channel id="GVA">
+<display-name lang="pt">TV Vanguarda Sao Jose dos Campos</display-name>
+<icon src="gva.png"/>
+</channel>
+<channel id="GVG">
+<display-name lang="pt">Globo Varginha - EPTV Sul de Minas</display-name>
+<icon src="gvg.png"/>
+</channel>
+<channel id="GVH">
+<display-name lang="pt">TV Vanguarda S&#xE3;o Jos&#xE9;. dos Campos - HD</display-name>
+<icon src="gvh.png"/>
+</channel>
+<channel id="GVN">
+<display-name lang="pt">GV News</display-name>
+<icon src="gvn.png"/>
+</channel>
+<channel id="H2H">
+<display-name lang="pt">HBO 2 HD</display-name>
+<icon src="h2h.png"/>
+</channel>
+<channel id="HAL">
+<display-name lang="pt">Studio Universal</display-name>
+<icon src="hal.png"/>
+</channel>
+<channel id="HB2">
+<display-name lang="pt">HBO 2</display-name>
+<icon src="hb2.png"/>
+</channel>
+<channel id="HBE">
+<display-name lang="pt">HBO *E</display-name>
+<icon src="hbe.png"/>
+</channel>
+<channel id="HBO">
+<display-name lang="pt">HBO</display-name>
+<icon src="hbo.png"/>
+</channel>
+<channel id="HBS">
+<display-name lang="pt">HBO HD</display-name>
+<icon src="hbs.png"/>
+</channel>
+<channel id="HDT">
+<display-name lang="pt">HDTV - TVA Cabo e MMDS</display-name>
+<icon src="hdt.png"/>
+</channel>
+<channel id="HEA">
+<display-name lang="pt">Discovery Home &amp; Health</display-name>
+<icon src="hea.png"/>
+</channel>
+<channel id="HEC">
+<display-name lang="pt">Sextreme</display-name>
+<icon src="hec.png"/>
+</channel>
+<channel id="HEH">
+<display-name lang="pt">Discovery Home &amp; Health HD</display-name>
+<icon src="heh.png"/>
+</channel>
+<channel id="HFA">
+<display-name lang="pt">HBO Family</display-name>
+<icon src="hfa.png"/>
+</channel>
+<channel id="HFB">
+<display-name lang="pt">HBO Family HD</display-name>
+<icon src="hfb.png"/>
+</channel>
+<channel id="HFE">
+<display-name lang="pt">HBO Signature</display-name>
+<icon src="hfe.png"/>
+</channel>
+<channel id="HFH">
+<display-name lang="pt">HBO Signature HD</display-name>
+<icon src="hfh.png"/>
+</channel>
+<channel id="HIH">
+<display-name lang="pt">History HD</display-name>
+<icon src="hih.png"/>
+</channel>
+<channel id="HIS">
+<display-name lang="pt">History</display-name>
+<icon src="his.png"/>
+</channel>
+<channel id="HOR">
+<display-name lang="pt">TV Horizonte</display-name>
+<icon src="hor.png"/>
+</channel>
+<channel id="HOT">
+<display-name lang="pt">Sexy Hot</display-name>
+<icon src="hot.png"/>
+</channel>
+<channel id="HPE">
+<display-name lang="pt">HBO Plus *e</display-name>
+<icon src="hpe.png"/>
+</channel>
+<channel id="HPL">
+<display-name lang="pt">HBO Plus</display-name>
+<icon src="hpl.png"/>
+</channel>
+<channel id="HPM">
+<display-name lang="pt">HBO Plus HD</display-name>
+<icon src="hpm.png"/>
+</channel>
+<channel id="HTV">
+<display-name lang="pt">Hiper TV</display-name>
+<icon src="htv.png"/>
+</channel>
+<channel id="IDH">
+<display-name lang="pt">ID HD</display-name>
+<icon src="idh.png"/>
+</channel>
+<channel id="IMA">
+<display-name lang="pt">TV IMACULADA CONCEI&#xC7;&#xC3;O</display-name>
+<icon src="ima.png"/>
+</channel>
+<channel id="INH">
+<display-name lang="pt">Cobertura Rio 2016 na Claro</display-name>
+<icon src="inh.png"/>
+</channel>
+<channel id="ITV">
+<display-name lang="pt">I TV</display-name>
+<icon src="itv.png"/>
+</channel>
+<channel id="ITX">
+<display-name lang="pt">ITU TV</display-name>
+<icon src="itx.png"/>
+</channel>
+<channel id="JAP">
+<display-name lang="pt">Tv Japi - Jundia&#xED;</display-name>
+<icon src="jap.png"/>
+</channel>
+<channel id="JAU">
+<display-name lang="pt">TVC Jau</display-name>
+<icon src="jau.png"/>
+</channel>
+<channel id="JEI">
+<display-name lang="pt">TV Jei</display-name>
+<icon src="jei.png"/>
+</channel>
+<channel id="JOK">
+<display-name lang="pt">TV Jockey</display-name>
+<icon src="jok.png"/>
+</channel>
+<channel id="JUS">
+<display-name lang="pt">TV Justi&#xE7;a</display-name>
+<icon src="jus.png"/>
+</channel>
+<channel id="KBS">
+<display-name lang="pt">KBS World</display-name>
+<icon src="kbs.png"/>
+</channel>
+<channel id="LBH">
+<display-name lang="pt">Rede Boa Vontade HD</display-name>
+<icon src="lbh.png"/>
+</channel>
+<channel id="LBV">
+<display-name lang="pt">Rede Boa Vontade</display-name>
+<icon src="lbv.png"/>
+</channel>
+<channel id="LEO">
+<display-name lang="pt">Leomax Shop</display-name>
+<icon src="leo.png"/>
+</channel>
+<channel id="LIC">
+<display-name lang="pt">Life Channel</display-name>
+<icon src="lic.png"/>
+</channel>
+<channel id="LIF">
+<display-name lang="pt">Life Family</display-name>
+<icon src="lif.png"/>
+</channel>
+<channel id="LIT">
+<display-name lang="pt">TV Litoral - RJ</display-name>
+<icon src="lit.png"/>
+</channel>
+<channel id="LIV">
+<display-name lang="pt">ID</display-name>
+<icon src="liv.png"/>
+</channel>
+<channel id="LSU">
+<display-name lang="pt">TV Litoral Sul - Criciuma</display-name>
+<icon src="lsu.png"/>
+</channel>
+<channel id="LTM">
+<display-name lang="pt">Local TV Manaus</display-name>
+<icon src="ltm.png"/>
+</channel>
+<channel id="LTV">
+<display-name lang="pt">Local TV</display-name>
+<icon src="ltv.png"/>
+</channel>
+<channel id="LUM">
+<display-name lang="pt">Lumen TV</display-name>
+<icon src="lum.png"/>
+</channel>
+<channel id="LUZ">
+<display-name lang="pt">Rede Luz da Vida</display-name>
+<icon src="luz.png"/>
+</channel>
+<channel id="M1S">
+<display-name lang="pt">M1 Station</display-name>
+<icon src="m1s.png"/>
+</channel>
+<channel id="MAH">
+<display-name lang="pt">Max Prime HD</display-name>
+<icon src="mah.png"/>
+</channel>
+<channel id="MAP">
+<display-name lang="pt">Max Prime</display-name>
+<icon src="map.png"/>
+</channel>
+<channel id="MAQ">
+<display-name lang="pt">TV Mar - Rio grande</display-name>
+<icon src="maq.png"/>
+</channel>
+<channel id="MAR">
+<display-name lang="pt">TV Mar Macei&#xF3;</display-name>
+<icon src="mar.png"/>
+</channel>
+<channel id="MAS">
+<display-name lang="pt">TV MASTER - NET JO&#xC3;O PESSOA</display-name>
+<icon src="mas.png"/>
+</channel>
+<channel id="MAX">
+<display-name lang="pt">Max HD/SD</display-name>
+<icon src="max.png"/>
+</channel>
+<channel id="MBB">
+<display-name lang="pt">BBB15 Mosaico</display-name>
+<icon src="mbb.png"/>
+</channel>
+<channel id="MCA">
+<display-name lang="pt">TV MCA - Itaja&#xED;</display-name>
+<icon src="mca.png"/>
+</channel>
+<channel id="MCO">
+<display-name lang="pt">TV Macei&#xF3;</display-name>
+<icon src="mco.png"/>
+</channel>
+<channel id="MDH">
+<display-name lang="pt">A&amp;E HD</display-name>
+<icon src="mdh.png"/>
+</channel>
+<channel id="MDO">
+<display-name lang="pt">AE</display-name>
+<icon src="mdo.png"/>
+</channel>
+<channel id="MED">
+<display-name lang="pt">TV Medicina e Sa&#xFA;de</display-name>
+<icon src="med.png"/>
+</channel>
+<channel id="MEG">
+<display-name lang="pt">Mega TV</display-name>
+<icon src="meg.png"/>
+</channel>
+<channel id="MEH">
+<display-name lang="pt">Mega TV HD</display-name>
+<icon src="meh.png"/>
+</channel>
+<channel id="MET">
+<display-name lang="pt">Canal Metr&#xF3;pole</display-name>
+<icon src="met.png"/>
+</channel>
+<channel id="MFH">
+<display-name lang="pt">Multishow Fuso HD</display-name>
+<icon src="mfh.png"/>
+</channel>
+<channel id="MGH">
+<display-name lang="pt">AMC HD</display-name>
+<icon src="mgh.png"/>
+</channel>
+<channel id="MGM">
+<display-name lang="pt">AMC</display-name>
+<icon src="mgm.png"/>
+</channel>
+<channel id="MHD">
+<display-name lang="pt">Max HD</display-name>
+<icon src="mhd.png"/>
+</channel>
+<channel id="MI2">
+<display-name lang="pt">Mega Tv Campinas - Canal 21</display-name>
+<icon src="mi2.png"/>
+</channel>
+<channel id="MIL">
+<display-name lang="pt">Canal 1001 Noites</display-name>
+<icon src="mil.png"/>
+</channel>
+<channel id="MIX">
+<display-name lang="pt">RBI</display-name>
+<icon src="mix.png"/>
+</channel>
+<channel id="MLI">
+<display-name lang="pt">Music Live</display-name>
+<icon src="mli.png"/>
+</channel>
+<channel id="MNC">
+<display-name lang="pt">Canal Municipal de Santos</display-name>
+<icon src="mnc.png"/>
+</channel>
+<channel id="MNH">
+<display-name lang="pt">Cinemax HD</display-name>
+<icon src="mnh.png"/>
+</channel>
+<channel id="MNT">
+<display-name lang="pt">TV Mix Brasil Natal/RN</display-name>
+<icon src="mnt.png"/>
+</channel>
+<channel id="MNX">
+<display-name lang="pt">Cinemax</display-name>
+<icon src="mnx.png"/>
+</channel>
+<channel id="MPE">
+<display-name lang="pt">Max Prime *e</display-name>
+<icon src="mpe.png"/>
+</channel>
+<channel id="MPH">
+<display-name lang="pt">Megapix HD</display-name>
+<icon src="mph.png"/>
+</channel>
+<channel id="MPX">
+<display-name lang="pt">Megapix</display-name>
+<icon src="mpx.png"/>
+</channel>
+<channel id="MRG">
+<display-name lang="pt">Metr&#xF3;pole Rio Grande</display-name>
+<icon src="mrg.png"/>
+</channel>
+<channel id="MRL">
+<display-name lang="pt">TV Mar&#xED;lia - Canal 4</display-name>
+<icon src="mrl.png"/>
+</channel>
+<channel id="MSD">
+<display-name lang="pt">BIS HD - Vers&#xE3;o SD</display-name>
+<icon src="msd.png"/>
+</channel>
+<channel id="MSF">
+<display-name lang="pt">Multishow Fuso</display-name>
+<icon src="msf.png"/>
+</channel>
+<channel id="MSH">
+<display-name lang="pt">BIS HD</display-name>
+<icon src="msh.png"/>
+</channel>
+<channel id="MSJ">
+<display-name lang="pt">Mega TV S&#xE3;o Jos&#xE9; dos Campos</display-name>
+<icon src="msj.png"/>
+</channel>
+<channel id="MSP">
+<display-name lang="pt">Multi Shop Canal 12</display-name>
+<icon src="msp.png"/>
+</channel>
+<channel id="MSW">
+<display-name lang="pt">Multishow</display-name>
+<icon src="msw.png"/>
+</channel>
+<channel id="MTA">
+<display-name lang="pt">Ideal TV</display-name>
+<icon src="mta.png"/>
+</channel>
+<channel id="MTB">
+<display-name lang="pt">MTV Brasil</display-name>
+<icon src="mtb.png"/>
+</channel>
+<channel id="MTC">
+<display-name lang="pt">Multicultura</display-name>
+<icon src="mtc.png"/>
+</channel>
+<channel id="MTD">
+<display-name lang="pt">Ideal TV</display-name>
+<icon src="mtd.png"/>
+</channel>
+<channel id="MTH">
+<display-name lang="pt">VH1 Mega Hits</display-name>
+<icon src="mth.png"/>
+</channel>
+<channel id="MTJ">
+<display-name lang="pt">MTV Jams</display-name>
+<icon src="mtj.png"/>
+</channel>
+<channel id="MTS">
+<display-name lang="pt">Multishow HD</display-name>
+<icon src="mts.png"/>
+</channel>
+<channel id="MTV">
+<display-name lang="pt">MTV</display-name>
+<icon src="mtv.png"/>
+</channel>
+<channel id="MUB">
+<display-name lang="pt">Music Box Brasil</display-name>
+<icon src="mub.png"/>
+</channel>
+<channel id="MUC">
+<display-name lang="pt">Music Box Brasil HD - Canais Box</display-name>
+<icon src="muc.png"/>
+</channel>
+<channel id="MUM">
+<display-name lang="pt">Tv Mundo Maior</display-name>
+<icon src="mum.png"/>
+</channel>
+<channel id="MXE">
+<display-name lang="pt">Max</display-name>
+<icon src="mxe.png"/>
+</channel>
+<channel id="MXH">
+<display-name lang="pt">Max *e HD</display-name>
+<icon src="mxh.png"/>
+</channel>
+<channel id="NAC">
+<display-name lang="pt">SESC TV</display-name>
+<icon src="nac.png"/>
+</channel>
+<channel id="NAZ">
+<display-name lang="pt">TV Nazare</display-name>
+<icon src="naz.png"/>
+</channel>
+<channel id="NBR">
+<display-name lang="pt">NBR</display-name>
+<icon src="nbr.png"/>
+</channel>
+<channel id="NC0">
+<display-name lang="pt">Net Cidade - An&#xE1;polis</display-name>
+<icon src="nc0.png"/>
+</channel>
+<channel id="NC1">
+<display-name lang="pt">Net Cidade - Novo Hamburgo</display-name>
+<icon src="nc1.png"/>
+</channel>
+<channel id="NC2">
+<display-name lang="pt">Net Cidade - Porto Alegre</display-name>
+<icon src="nc2.png"/>
+</channel>
+<channel id="NC3">
+<display-name lang="pt">Net Cidade - Sorocaba</display-name>
+<icon src="nc3.png"/>
+</channel>
+<channel id="NC4">
+<display-name lang="pt">Net Cidade - Piracicaba</display-name>
+<icon src="nc4.png"/>
+</channel>
+<channel id="NC5">
+<display-name lang="pt">Net Cidade - Bauru</display-name>
+<icon src="nc5.png"/>
+</channel>
+<channel id="NC6">
+<display-name lang="pt">Net Cidade - Jundia&#xED;</display-name>
+<icon src="nc6.png"/>
+</channel>
+<channel id="NC7">
+<display-name lang="pt">Net Cidade - Blumenau</display-name>
+<icon src="nc7.png"/>
+</channel>
+<channel id="NC8">
+<display-name lang="pt">Net Cidade - Curitiba</display-name>
+<icon src="nc8.png"/>
+</channel>
+<channel id="NC9">
+<display-name lang="pt">Net Cidade BH</display-name>
+<icon src="nc9.png"/>
+</channel>
+<channel id="NCA">
+<display-name lang="pt">Net Cidade - Americana e Rio Claro</display-name>
+<icon src="nca.png"/>
+</channel>
+<channel id="NCB">
+<display-name lang="pt">Net Cidade - Baixada Santos</display-name>
+<icon src="ncb.png"/>
+</channel>
+<channel id="NCC">
+<display-name lang="pt">Net Cidade - Campinas</display-name>
+<icon src="ncc.png"/>
+</channel>
+<channel id="NCD">
+<display-name lang="pt">Net Cidade - Bras&#xED;lia</display-name>
+<icon src="ncd.png"/>
+</channel>
+<channel id="NCE">
+<display-name lang="pt">Net Cidade - Campo Grande +1 Hora</display-name>
+<icon src="nce.png"/>
+</channel>
+<channel id="NCF">
+<display-name lang="pt">Net Cidade - Franca</display-name>
+<icon src="ncf.png"/>
+</channel>
+<channel id="NCG">
+<display-name lang="pt">Net Cidade - Mogi</display-name>
+<icon src="ncg.png"/>
+</channel>
+<channel id="NCH">
+<display-name lang="pt">Net Cidade Araraquara</display-name>
+<icon src="nch.png"/>
+</channel>
+<channel id="NCJ">
+<display-name lang="pt">Net Cidade - SJ Campos</display-name>
+<icon src="ncj.png"/>
+</channel>
+<channel id="NCK">
+<display-name lang="pt">Net Cidade - Maring&#xE1;</display-name>
+<icon src="nck.png"/>
+</channel>
+<channel id="NCL">
+<display-name lang="pt">Net Cidade - Londrina</display-name>
+<icon src="ncl.png"/>
+</channel>
+<channel id="NCM">
+<display-name lang="pt">Net Cidade - Manaus</display-name>
+<icon src="ncm.png"/>
+</channel>
+<channel id="NCO">
+<display-name lang="pt">Net Cidade - Ribeir&#xE3;o Preto</display-name>
+<icon src="nco.png"/>
+</channel>
+<channel id="NCP">
+<display-name lang="pt">Net Cidade - S&#xE3;o Paulo</display-name>
+<icon src="ncp.png"/>
+</channel>
+<channel id="NCQ">
+<display-name lang="pt">Net Cidade - S&#xE3;o Carlos</display-name>
+<icon src="ncq.png"/>
+</channel>
+<channel id="NCR">
+<display-name lang="pt">Net Cidade - Rio de Janeiro</display-name>
+<icon src="ncr.png"/>
+</channel>
+<channel id="NCS">
+<display-name lang="pt">Net Cidade - Santo Andr&#xE9; ABC</display-name>
+<icon src="ncs.png"/>
+</channel>
+<channel id="NCT">
+<display-name lang="pt">Net Cidade - Taubat&#xE9;</display-name>
+<icon src="nct.png"/>
+</channel>
+<channel id="NCU">
+<display-name lang="pt">Net Cidade S.J.do Rio Preto</display-name>
+<icon src="ncu.png"/>
+</channel>
+<channel id="NCV">
+<display-name lang="pt">Net CIdade - Joinville</display-name>
+<icon src="ncv.png"/>
+</channel>
+<channel id="NCW">
+<display-name lang="pt">Net Cidade - Passo Fundo</display-name>
+<icon src="ncw.png"/>
+</channel>
+<channel id="NCX">
+<display-name lang="pt">Net Cidade - Caxias do Sul</display-name>
+<icon src="ncx.png"/>
+</channel>
+<channel id="NCY">
+<display-name lang="pt">Net Cidade - Pelotas</display-name>
+<icon src="ncy.png"/>
+</channel>
+<channel id="NCZ">
+<display-name lang="pt">Net Cidade - Cap&#xE3;o da Canoa</display-name>
+<icon src="ncz.png"/>
+</channel>
+<channel id="ND0">
+<display-name lang="pt">Net Cidade - Santa Maria</display-name>
+<icon src="nd0.png"/>
+</channel>
+<channel id="ND1">
+<display-name lang="pt">Net Cidade - Rio Grande</display-name>
+<icon src="nd1.png"/>
+</channel>
+<channel id="ND2">
+<display-name lang="pt">Net Cidade - Bag&#xE9;</display-name>
+<icon src="nd2.png"/>
+</channel>
+<channel id="ND3">
+<display-name lang="pt">Net Cidade - Chapec&#xF3;</display-name>
+<icon src="nd3.png"/>
+</channel>
+<channel id="ND4">
+<display-name lang="pt">Net Cidade - Recife</display-name>
+<icon src="nd4.png"/>
+</channel>
+<channel id="ND5">
+<display-name lang="pt">Net Cidade - Resende</display-name>
+<icon src="nd5.png"/>
+</channel>
+<channel id="ND6">
+<display-name lang="pt">NET Cidade - Salvador</display-name>
+<icon src="nd6.png"/>
+</channel>
+<channel id="ND7">
+<display-name lang="pt">NET Cidade - Uberl&#xE2;ndia</display-name>
+<icon src="nd7.png"/>
+</channel>
+<channel id="ND8">
+<display-name lang="pt">NET Cidade - Guarulhos</display-name>
+<icon src="nd8.png"/>
+</channel>
+<channel id="ND9">
+<display-name lang="pt">NET Cidade - Vit&#xF3;ria</display-name>
+<icon src="nd9.png"/>
+</channel>
+<channel id="NE1">
+<display-name lang="pt">NET Cidade - Bel&#xE9;m</display-name>
+<icon src="ne1.png"/>
+</channel>
+<channel id="NE2">
+<display-name lang="pt">Net Cidade - Bragan&#xE7;a Paulista</display-name>
+<icon src="ne2.png"/>
+</channel>
+<channel id="NE3">
+<display-name lang="pt">NET Cidade - Barueri</display-name>
+<icon src="ne3.png"/>
+</channel>
+<channel id="NEH">
+<display-name lang="pt">Band News HD</display-name>
+<icon src="neh.png"/>
+</channel>
+<channel id="NEW">
+<display-name lang="pt">Band News</display-name>
+<icon src="new.png"/>
+</channel>
+<channel id="NFI">
+<display-name lang="pt">NET FLIX - Canal Tim</display-name>
+<icon src="nfi.png"/>
+</channel>
+<channel id="NGH">
+<display-name lang="pt">NatGeo Wild HD</display-name>
+<icon src="ngh.png"/>
+</channel>
+<channel id="NGT">
+<display-name lang="pt">Rede NGT</display-name>
+<icon src="ngt.png"/>
+</channel>
+<channel id="NGW">
+<display-name lang="pt">Nat Geo Wild SD</display-name>
+<icon src="ngw.png"/>
+</channel>
+<channel id="NHK">
+<display-name lang="pt">NHK</display-name>
+<icon src="nhk.png"/>
+</channel>
+<channel id="NHW">
+<display-name lang="pt">NHK WORLD</display-name>
+<icon src="nhw.png"/>
+</channel>
+<channel id="NIC">
+<display-name lang="pt">Nickelodeon</display-name>
+<icon src="nic.png"/>
+</channel>
+<channel id="NID">
+<display-name lang="pt">Nickelodeon</display-name>
+<icon src="nid.png"/>
+</channel>
+<channel id="NJR">
+<display-name lang="pt">Nick Jr.</display-name>
+<icon src="njr.png"/>
+</channel>
+<channel id="NOC">
+<display-name lang="pt">Novo Canal</display-name>
+<icon src="noc.png"/>
+</channel>
+<channel id="NOV">
+<display-name lang="pt">TV Nova Nordeste</display-name>
+<icon src="nov.png"/>
+</channel>
+<channel id="NTA">
+<display-name lang="pt">TV NATAL</display-name>
+<icon src="nta.png"/>
+</channel>
+<channel id="NTC">
+<display-name lang="pt">Nova Tv Comunit&#xE1;ria - Mogi</display-name>
+<icon src="ntc.png"/>
+</channel>
+<channel id="NTV">
+<display-name lang="pt">Nova Tv - Franca</display-name>
+<icon src="ntv.png"/>
+</channel>
+<channel id="NVT">
+<display-name lang="pt">Canal Novo Tempo</display-name>
+<icon src="nvt.png"/>
+</channel>
+<channel id="NVU">
+<display-name lang="pt">Canal Novo Tempo HD</display-name>
+<icon src="nvu.png"/>
+</channel>
+<channel id="OFF">
+<display-name lang="pt">OFF HD</display-name>
+<icon src="off.png"/>
+</channel>
+<channel id="OFS">
+<display-name lang="pt">Canal OFF - Vers&#xE3;o SD</display-name>
+<icon src="ofs.png"/>
+</channel>
+<channel id="OI3">
+<display-name lang="pt">Cartela Oi</display-name>
+<icon src="oi3.png"/>
+</channel>
+<channel id="OIT">
+<display-name lang="pt">Oi Tv</display-name>
+<icon src="oit.png"/>
+</channel>
+<channel id="OTV">
+<display-name lang="pt">OTV - Curitiba</display-name>
+<icon src="otv.png"/>
+</channel>
+<channel id="PAL">
+<display-name lang="pt">Tv Pampa - Rede Tv - Pelotas</display-name>
+<icon src="pal.png"/>
+</channel>
+<channel id="PAM">
+<display-name lang="pt">Tv Pampa - Rede Tv - Porto Alegre</display-name>
+<icon src="pam.png"/>
+</channel>
+<channel id="PAN">
+<display-name lang="pt">Tv Pampa - Rede Tv - Porto Alegre - HD</display-name>
+<icon src="pan.png"/>
+</channel>
+<channel id="PAQ">
+<display-name lang="pt">Paramount Channel HD</display-name>
+<icon src="paq.png"/>
+</channel>
+<channel id="PAR">
+<display-name lang="pt">Paramount Channel</display-name>
+<icon src="par.png"/>
+</channel>
+<channel id="PCZ">
+<display-name lang="pt">TV Princeza - Varginha</display-name>
+<icon src="pcz.png"/>
+</channel>
+<channel id="PED">
+<display-name lang="pt">Paran&#xE1; Educativo</display-name>
+<icon src="ped.png"/>
+</channel>
+<channel id="PF1">
+<display-name lang="pt">PFC 1</display-name>
+<icon src="pf1.png"/>
+</channel>
+<channel id="PF2">
+<display-name lang="pt">PFC HD 2</display-name>
+<icon src="pf2.png"/>
+</channel>
+<channel id="PFH">
+<display-name lang="pt">PFC HD</display-name>
+<icon src="pfh.png"/>
+</channel>
+<channel id="PFI">
+<display-name lang="pt">Premiere Futebol Interativo</display-name>
+<icon src="pfi.png"/>
+</channel>
+<channel id="PGT">
+<display-name lang="pt">Peugeot - Net Campinas</display-name>
+<icon src="pgt.png"/>
+</channel>
+<channel id="PHD">
+<display-name lang="pt">Disney Junior</display-name>
+<icon src="phd.png"/>
+</channel>
+<channel id="PLA">
+<display-name lang="pt">Playboy</display-name>
+<icon src="pla.png"/>
+</channel>
+<channel id="PLE">
+<display-name lang="pt">Plenitude</display-name>
+<icon src="ple.png"/>
+</channel>
+<channel id="PLM">
+<display-name lang="pt">TV Palmas</display-name>
+<icon src="plm.png"/>
+</channel>
+<channel id="PLS">
+<display-name lang="pt">Planet Sex TV</display-name>
+<icon src="pls.png"/>
+</channel>
+<channel id="PLT">
+<display-name lang="pt">Plena TV</display-name>
+<icon src="plt.png"/>
+</channel>
+<channel id="PLV">
+<display-name lang="pt">Play TV</display-name>
+<icon src="plv.png"/>
+</channel>
+<channel id="PLX">
+<display-name lang="pt">MixPlay TV</display-name>
+<icon src="plx.png"/>
+</channel>
+<channel id="PMR">
+<display-name lang="pt">Primer TV</display-name>
+<icon src="pmr.png"/>
+</channel>
+<channel id="POA">
+<display-name lang="pt">RBS TV</display-name>
+<icon src="poa.png"/>
+</channel>
+<channel id="POB">
+<display-name lang="pt">RBS TV Caxias do Sul</display-name>
+<icon src="pob.png"/>
+</channel>
+<channel id="POC">
+<display-name lang="pt">RBS TV Pelotas</display-name>
+<icon src="poc.png"/>
+</channel>
+<channel id="POD">
+<display-name lang="pt">RBS TV Santa Maria</display-name>
+<icon src="pod.png"/>
+</channel>
+<channel id="POH">
+<display-name lang="pt">Globo Poa HD</display-name>
+<icon src="poh.png"/>
+</channel>
+<channel id="POL">
+<display-name lang="pt">Portal 535 HD</display-name>
+<icon src="pol.png"/>
+</channel>
+<channel id="PR8">
+<display-name lang="pt">Sportv - Espelho SimTV</display-name>
+<icon src="pr8.png"/>
+</channel>
+<channel id="PRI">
+<display-name lang="pt">TV Primavera - Criciuma</display-name>
+<icon src="pri.png"/>
+</channel>
+<channel id="PRO">
+<display-name lang="pt">Canal Promessas</display-name>
+<icon src="pro.png"/>
+</channel>
+<channel id="PTJ">
+<display-name lang="pt">TV Ponto JUS</display-name>
+<icon src="ptj.png"/>
+</channel>
+<channel id="PTV">
+<display-name lang="pt">O Povo TV</display-name>
+<icon src="ptv.png"/>
+</channel>
+<channel id="PVS">
+<display-name lang="pt">Provis&#xE3;o TV - An&#xE1;polis</display-name>
+<icon src="pvs.png"/>
+</channel>
+<channel id="PVT">
+<display-name lang="pt">Tv Preve - Bauru</display-name>
+<icon src="pvt.png"/>
+</channel>
+<channel id="QTV">
+<display-name lang="pt">Canal QTV</display-name>
+<icon src="qtv.png"/>
+</channel>
+<channel id="R02">
+<display-name lang="pt">Premiere 2 - Net Fortaleza</display-name>
+<icon src="r02.png"/>
+</channel>
+<channel id="R03">
+<display-name lang="pt">Premiere 3 - Net Fortaleza</display-name>
+<icon src="r03.png"/>
+</channel>
+<channel id="R04">
+<display-name lang="pt">Premiere 4 - Net Fortaleza</display-name>
+<icon src="r04.png"/>
+</channel>
+<channel id="R05">
+<display-name lang="pt">Premiere 5 - Net Fortaleza</display-name>
+<icon src="r05.png"/>
+</channel>
+<channel id="R06">
+<display-name lang="pt">Premiere 6 - Net Fortaleza</display-name>
+<icon src="r06.png"/>
+</channel>
+<channel id="R07">
+<display-name lang="pt">Premiere 7 - Net Fortaleza</display-name>
+<icon src="r07.png"/>
+</channel>
+<channel id="R08">
+<display-name lang="pt">Premiere 8 - Net Fortaleza</display-name>
+<icon src="r08.png"/>
+</channel>
+<channel id="R13">
+<display-name lang="pt">Premiere 3 HD</display-name>
+<icon src="r13.png"/>
+</channel>
+<channel id="R15">
+<display-name lang="pt">Premiere 5 HD</display-name>
+<icon src="r15.png"/>
+</channel>
+<channel id="R1H">
+<display-name lang="pt">Record Bel&#xE9;m HD</display-name>
+<icon src="r1h.png"/>
+</channel>
+<channel id="R3D">
+<display-name lang="pt">Rede TV 3 D</display-name>
+<icon src="r3d.png"/>
+</channel>
+<channel id="RAI">
+<display-name lang="pt">RAI</display-name>
+<icon src="rai.png"/>
+</channel>
+<channel id="RBH">
+<display-name lang="pt">Record Bras&#xED;lia HD</display-name>
+<icon src="rbh.png"/>
+</channel>
+<channel id="RBQ">
+<display-name lang="pt">Rede Brasil - HD</display-name>
+<icon src="rbq.png"/>
+</channel>
+<channel id="RBR">
+<display-name lang="pt">Rede Brasil</display-name>
+<icon src="rbr.png"/>
+</channel>
+<channel id="RCA">
+<display-name lang="pt">RICTV - Record Chapec&#xF3;</display-name>
+<icon src="rca.png"/>
+</channel>
+<channel id="RCC">
+<display-name lang="pt">Rede Catedral - RedeTV Maring&#xE1;</display-name>
+<icon src="rcc.png"/>
+</channel>
+<channel id="RCD">
+<display-name lang="pt">Record TVB Campinas HD</display-name>
+<icon src="rcd.png"/>
+</channel>
+<channel id="RCG">
+<display-name lang="pt">Record Campo Grande - MS</display-name>
+<icon src="rcg.png"/>
+</channel>
+<channel id="RCH">
+<display-name lang="pt">RICTV - Record Chapec&#xF3; HD</display-name>
+<icon src="rch.png"/>
+</channel>
+<channel id="RCM">
+<display-name lang="pt">Record TVB - Campinas</display-name>
+<icon src="rcm.png"/>
+</channel>
+<channel id="RCN">
+<display-name lang="pt">Record News</display-name>
+<icon src="rcn.png"/>
+</channel>
+<channel id="RCO">
+<display-name lang="pt">Record News - SC</display-name>
+<icon src="rco.png"/>
+</channel>
+<channel id="RCP">
+<display-name lang="pt">Record News - S&#xE3;o Luis</display-name>
+<icon src="rcp.png"/>
+</channel>
+<channel id="RCR">
+<display-name lang="pt">RCR TV Crici&#xFA;ma</display-name>
+<icon src="rcr.png"/>
+</channel>
+<channel id="RCT">
+<display-name lang="pt">RCTV - Jo&#xE3;o Pessoa</display-name>
+<icon src="rct.png"/>
+</channel>
+<channel id="RCV">
+<display-name lang="pt">R&#xE1;dio Clube Varginha</display-name>
+<icon src="rcv.png"/>
+</channel>
+<channel id="RDB">
+<display-name lang="pt">Rede do Bem</display-name>
+<icon src="rdb.png"/>
+</channel>
+<channel id="REB">
+<display-name lang="pt">Record Bras&#xED;lia</display-name>
+<icon src="reb.png"/>
+</channel>
+<channel id="REC">
+<display-name lang="pt">Record</display-name>
+<icon src="rec.png"/>
+</channel>
+<channel id="RED">
+<display-name lang="pt">Record Claro TV - Rede Nacional</display-name>
+<icon src="red.png"/>
+</channel>
+<channel id="REE">
+<display-name lang="pt">Record Bel&#xE9;m</display-name>
+<icon src="ree.png"/>
+</channel>
+<channel id="REF">
+<display-name lang="pt">Rede Fam&#xED;lia</display-name>
+<icon src="ref.png"/>
+</channel>
+<channel id="REH">
+<display-name lang="pt">Record Macei&#xF3; - HD</display-name>
+<icon src="reh.png"/>
+</channel>
+<channel id="REJ">
+<display-name lang="pt">Record RJ</display-name>
+<icon src="rej.png"/>
+</channel>
+<channel id="REM">
+<display-name lang="pt">Record  TV Paju&#xE7;ara - AL</display-name>
+<icon src="rem.png"/>
+</channel>
+<channel id="REP">
+<display-name lang="pt">Record Ribeir&#xE3;o Preto</display-name>
+<icon src="rep.png"/>
+</channel>
+<channel id="RET">
+<display-name lang="pt">Rede Esta&#xE7;&#xE3;o TV</display-name>
+<icon src="ret.png"/>
+</channel>
+<channel id="RFH">
+<display-name lang="pt">Record Florian&#xF3;polis - HD</display-name>
+<icon src="rfh.png"/>
+</channel>
+<channel id="RGH">
+<display-name lang="pt">Record Goi&#xE1;s HD</display-name>
+<icon src="rgh.png"/>
+</channel>
+<channel id="RGO">
+<display-name lang="pt">Record Goi&#xE1;s</display-name>
+<icon src="rgo.png"/>
+</channel>
+<channel id="RHD">
+<display-name lang="pt">Record SP HD</display-name>
+<icon src="rhd.png"/>
+</channel>
+<channel id="RHE">
+<display-name lang="pt">Record Rede Nacional - HD</display-name>
+<icon src="rhe.png"/>
+</channel>
+<channel id="RIB">
+<display-name lang="pt">RITTV - Belo Horizonte</display-name>
+<icon src="rib.png"/>
+</channel>
+<channel id="RIC">
+<display-name lang="pt">RICTV - Record Curitiba - PR</display-name>
+<icon src="ric.png"/>
+</channel>
+<channel id="RIH">
+<display-name lang="pt">RICTV - Record Curitiba HD</display-name>
+<icon src="rih.png"/>
+</channel>
+<channel id="RIM">
+<display-name lang="pt">RIT TV - Manaus Canal 8</display-name>
+<icon src="rim.png"/>
+</channel>
+<channel id="RIT">
+<display-name lang="pt">RIT TV</display-name>
+<icon src="rit.png"/>
+</channel>
+<channel id="RJH">
+<display-name lang="pt">Record Rio - HD</display-name>
+<icon src="rjh.png"/>
+</channel>
+<channel id="RLH">
+<display-name lang="pt">Record Litoral - HD</display-name>
+<icon src="rlh.png"/>
+</channel>
+<channel id="RLT">
+<display-name lang="pt">Record Litoral</display-name>
+<icon src="rlt.png"/>
+</channel>
+<channel id="RMA">
+<display-name lang="pt">Record Mar&#xED;lia</display-name>
+<icon src="rma.png"/>
+</channel>
+<channel id="RMD">
+<display-name lang="pt">Rede Mundial</display-name>
+<icon src="rmd.png"/>
+</channel>
+<channel id="RMG">
+<display-name lang="pt">Record Minas Gerais</display-name>
+<icon src="rmg.png"/>
+</channel>
+<channel id="RMH">
+<display-name lang="pt">Record Minas Gerais - HD</display-name>
+<icon src="rmh.png"/>
+</channel>
+<channel id="RMN">
+<display-name lang="pt">Rede Minas</display-name>
+<icon src="rmn.png"/>
+</channel>
+<channel id="RPA">
+<display-name lang="pt">Record Paulista - Interior</display-name>
+<icon src="rpa.png"/>
+</channel>
+<channel id="RPH">
+<display-name lang="pt">TV Correio HD - Record Jo&#xE3;o Pessoa</display-name>
+<icon src="rph.png"/>
+</channel>
+<channel id="RPS">
+<display-name lang="pt">TV Correio - Record Jo&#xE3;o Pessoa</display-name>
+<icon src="rps.png"/>
+</channel>
+<channel id="RPT">
+<display-name lang="pt">RPTV S&#xE3;o Jos&#xE9; do Rio Preto</display-name>
+<icon src="rpt.png"/>
+</channel>
+<channel id="RPV">
+<display-name lang="pt">Record SIC TV - Porto Velho</display-name>
+<icon src="rpv.png"/>
+</channel>
+<channel id="RRB">
+<display-name lang="pt">Record Rio Branco (Acre)</display-name>
+<icon src="rrb.png"/>
+</channel>
+<channel id="RRC">
+<display-name lang="pt">Record Recife</display-name>
+<icon src="rrc.png"/>
+</channel>
+<channel id="RRH">
+<display-name lang="pt">Record Rio Branco (Acre) - HD</display-name>
+<icon src="rrh.png"/>
+</channel>
+<channel id="RRP">
+<display-name lang="pt">Rede Rio Preto</display-name>
+<icon src="rrp.png"/>
+</channel>
+<channel id="RSA">
+<display-name lang="pt">Record Salvador</display-name>
+<icon src="rsa.png"/>
+</channel>
+<channel id="RSB">
+<display-name lang="pt">Record Salvador HD</display-name>
+<icon src="rsb.png"/>
+</channel>
+<channel id="RSC">
+<display-name lang="pt">Record Florian&#xF3;polis - SC</display-name>
+<icon src="rsc.png"/>
+</channel>
+<channel id="RSH">
+<display-name lang="pt">Rush HD</display-name>
+<icon src="rsh.png"/>
+</channel>
+<channel id="RSJ">
+<display-name lang="pt">RICTV - Record Joinville - SC</display-name>
+<icon src="rsj.png"/>
+</channel>
+<channel id="RSK">
+<display-name lang="pt">RICTV - Record Joinville HD - SC</display-name>
+<icon src="rsk.png"/>
+</channel>
+<channel id="RSP">
+<display-name lang="pt">REDETV Sul do Paran&#xE1;</display-name>
+<icon src="rsp.png"/>
+</channel>
+<channel id="RSQ">
+<display-name lang="pt">REDETV Sul do Paran&#xE1; - HD</display-name>
+<icon src="rsq.png"/>
+</channel>
+<channel id="RSR">
+<display-name lang="pt">Premiere 5 HD - Multiplay Fortaleza</display-name>
+<icon src="rsr.png"/>
+</channel>
+<channel id="RST">
+<display-name lang="pt">RSTV</display-name>
+<icon src="rst.png"/>
+</channel>
+<channel id="RTB">
+<display-name lang="pt">TV R&#xE1; Tim Bum</display-name>
+<icon src="rtb.png"/>
+</channel>
+<channel id="RTC">
+<display-name lang="pt">Rede TV -  Brasilia HD</display-name>
+<icon src="rtc.png"/>
+</channel>
+<channel id="RTD">
+<display-name lang="pt">RedeTV Bras&#xED;lia</display-name>
+<icon src="rtd.png"/>
+</channel>
+<channel id="RTE">
+<display-name lang="pt">REDETV Jo&#xE3;o Pessoa - TV Arapuan</display-name>
+<icon src="rte.png"/>
+</channel>
+<channel id="RTF">
+<display-name lang="pt">Redetv Jo&#xE3;o Pes. - TV Arapuan - HD</display-name>
+<icon src="rtf.png"/>
+</channel>
+<channel id="RTH">
+<display-name lang="pt">RedeTV HD</display-name>
+<icon src="rth.png"/>
+</channel>
+<channel id="RTI">
+<display-name lang="pt">RedeTV! Ribeir&#xE3;o Preto</display-name>
+<icon src="rti.png"/>
+</channel>
+<channel id="RTJ">
+<display-name lang="pt">RedeTV Rio</display-name>
+<icon src="rtj.png"/>
+</channel>
+<channel id="RTK">
+<display-name lang="pt">RedeTV! Ribeir&#xE3;o Preto HD</display-name>
+<icon src="rtk.png"/>
+</channel>
+<channel id="RTM">
+<display-name lang="pt">RTV Maring&#xE1;</display-name>
+<icon src="rtm.png"/>
+</channel>
+<channel id="RTP">
+<display-name lang="pt">RTPi</display-name>
+<icon src="rtp.png"/>
+</channel>
+<channel id="RTR">
+<display-name lang="pt">RedeTV! Recife SD</display-name>
+<icon src="rtr.png"/>
+</channel>
+<channel id="RTS">
+<display-name lang="pt">RedeTV!</display-name>
+<icon src="rts.png"/>
+</channel>
+<channel id="RTU">
+<display-name lang="pt">RedeTV</display-name>
+<icon src="rtu.png"/>
+</channel>
+<channel id="RTV">
+<display-name lang="pt">RedeTV!</display-name>
+<icon src="rtv.png"/>
+</channel>
+<channel id="RTX">
+<display-name lang="pt">Rede TV!</display-name>
+<icon src="rtx.png"/>
+</channel>
+<channel id="RTZ">
+<display-name lang="pt">RedeTV!</display-name>
+<icon src="rtz.png"/>
+</channel>
+<channel id="RUR">
+<display-name lang="pt">Canal Rural</display-name>
+<icon src="rur.png"/>
+</channel>
+<channel id="RUS">
+<display-name lang="pt">Russia Today HD</display-name>
+<icon src="rus.png"/>
+</channel>
+<channel id="RVE">
+<display-name lang="pt">Rede TV Vit&#xF3;ria - ES</display-name>
+<icon src="rve.png"/>
+</channel>
+<channel id="RVH">
+<display-name lang="pt">Rede TV Vit&#xF3;ria  ES - HD</display-name>
+<icon src="rvh.png"/>
+</channel>
+<channel id="S04">
+<display-name lang="pt">Sportv 4 HD</display-name>
+<icon src="s04.png"/>
+</channel>
+<channel id="S05">
+<display-name lang="pt">Sportv 5 HD</display-name>
+<icon src="s05.png"/>
+</channel>
+<channel id="S06">
+<display-name lang="pt">Sportv 6 HD</display-name>
+<icon src="s06.png"/>
+</channel>
+<channel id="S07">
+<display-name lang="pt">Sportv 7 HD</display-name>
+<icon src="s07.png"/>
+</channel>
+<channel id="S08">
+<display-name lang="pt">Sportv 8 HD</display-name>
+<icon src="s08.png"/>
+</channel>
+<channel id="S09">
+<display-name lang="pt">Sportv 9 HD</display-name>
+<icon src="s09.png"/>
+</channel>
+<channel id="S10">
+<display-name lang="pt">Sportv 10 HD</display-name>
+<icon src="s10.png"/>
+</channel>
+<channel id="S11">
+<display-name lang="pt">Sportv 11 HD</display-name>
+<icon src="s11.png"/>
+</channel>
+<channel id="S12">
+<display-name lang="pt">Sportv 12 HD</display-name>
+<icon src="s12.png"/>
+</channel>
+<channel id="S13">
+<display-name lang="pt">Sportv 13 HD</display-name>
+<icon src="s13.png"/>
+</channel>
+<channel id="S14">
+<display-name lang="pt">Sportv 14 HD</display-name>
+<icon src="s14.png"/>
+</channel>
+<channel id="S15">
+<display-name lang="pt">Sportv 15 HD</display-name>
+<icon src="s15.png"/>
+</channel>
+<channel id="S16">
+<display-name lang="pt">Sportv 16 HD</display-name>
+<icon src="s16.png"/>
+</channel>
+<channel id="S1H">
+<display-name lang="pt">SporTV HD</display-name>
+<icon src="s1h.png"/>
+</channel>
+<channel id="S24">
+<display-name lang="pt">SporTV 4</display-name>
+<icon src="s24.png"/>
+</channel>
+<channel id="S25">
+<display-name lang="pt">SporTV 5</display-name>
+<icon src="s25.png"/>
+</channel>
+<channel id="S26">
+<display-name lang="pt">SporTV 6</display-name>
+<icon src="s26.png"/>
+</channel>
+<channel id="S27">
+<display-name lang="pt">SporTV 7</display-name>
+<icon src="s27.png"/>
+</channel>
+<channel id="S28">
+<display-name lang="pt">SporTV 8</display-name>
+<icon src="s28.png"/>
+</channel>
+<channel id="S29">
+<display-name lang="pt">SporTV 9</display-name>
+<icon src="s29.png"/>
+</channel>
+<channel id="S2H">
+<display-name lang="pt">SporTV2 HD</display-name>
+<icon src="s2h.png"/>
+</channel>
+<channel id="S2O">
+<display-name lang="pt">SporTV2 HD</display-name>
+<icon src="s2o.png"/>
+</channel>
+<channel id="S30">
+<display-name lang="pt">SporTV 10</display-name>
+<icon src="s30.png"/>
+</channel>
+<channel id="S31">
+<display-name lang="pt">SporTV 11</display-name>
+<icon src="s31.png"/>
+</channel>
+<channel id="S32">
+<display-name lang="pt">SporTV 12</display-name>
+<icon src="s32.png"/>
+</channel>
+<channel id="S33">
+<display-name lang="pt">SporTV 13</display-name>
+<icon src="s33.png"/>
+</channel>
+<channel id="S34">
+<display-name lang="pt">SporTV 14</display-name>
+<icon src="s34.png"/>
+</channel>
+<channel id="S35">
+<display-name lang="pt">SporTV 15</display-name>
+<icon src="s35.png"/>
+</channel>
+<channel id="S36">
+<display-name lang="pt">SporTV 16</display-name>
+<icon src="s36.png"/>
+</channel>
+<channel id="S3H">
+<display-name lang="pt">SporTV3 HD</display-name>
+<icon src="s3h.png"/>
+</channel>
+<channel id="S42">
+<display-name lang="pt">SporTV 12 HD - OI NDS</display-name>
+<icon src="s42.png"/>
+</channel>
+<channel id="S43">
+<display-name lang="pt">SporTV 13 HD - OI NDS</display-name>
+<icon src="s43.png"/>
+</channel>
+<channel id="S44">
+<display-name lang="pt">Sportv 4 V</display-name>
+<icon src="s44.png"/>
+</channel>
+<channel id="S45">
+<display-name lang="pt">SporTV 15 HD - OI NDS</display-name>
+<icon src="s45.png"/>
+</channel>
+<channel id="S46">
+<display-name lang="pt">SporTV 16 HD - OI NDS</display-name>
+<icon src="s46.png"/>
+</channel>
+<channel id="S4K">
+<display-name lang="pt">SPORTV 4K</display-name>
+<icon src="s4k.png"/>
+</channel>
+<channel id="S54">
+<display-name lang="pt">Sportv 4 HD V</display-name>
+<icon src="s54.png"/>
+</channel>
+<channel id="SAT">
+<display-name lang="pt">I-Sat</display-name>
+<icon src="sat.png"/>
+</channel>
+<channel id="SAU">
+<display-name lang="pt">Canal Sa&#xFA;de</display-name>
+<icon src="sau.png"/>
+</channel>
+<channel id="SBA">
+<display-name lang="pt">SBT Macei&#xF3; - Alagoas</display-name>
+<icon src="sba.png"/>
+</channel>
+<channel id="SBB">
+<display-name lang="pt">SBT Bel&#xE9;m</display-name>
+<icon src="sbb.png"/>
+</channel>
+<channel id="SBC">
+<display-name lang="pt">SBT Curitiba - Rede Massa</display-name>
+<icon src="sbc.png"/>
+</channel>
+<channel id="SBD">
+<display-name lang="pt">SBT</display-name>
+<icon src="sbd.png"/>
+</channel>
+<channel id="SBE">
+<display-name lang="pt">TV Jornal - SBT Recife SD</display-name>
+<icon src="sbe.png"/>
+</channel>
+<channel id="SBF">
+<display-name lang="pt">SBT Bel&#xE9;m - HD</display-name>
+<icon src="sbf.png"/>
+</channel>
+<channel id="SBG">
+<display-name lang="pt">SBT Maceio - Alagoas HD</display-name>
+<icon src="sbg.png"/>
+</channel>
+<channel id="SBH">
+<display-name lang="pt">SBT Belo Horizonte</display-name>
+<icon src="sbh.png"/>
+</channel>
+<channel id="SBI">
+<display-name lang="pt">SBT SP Interior</display-name>
+<icon src="sbi.png"/>
+</channel>
+<channel id="SBJ">
+<display-name lang="pt">SBT Rio</display-name>
+<icon src="sbj.png"/>
+</channel>
+<channel id="SBK">
+<display-name lang="pt">SBT SP Interior - HD</display-name>
+<icon src="sbk.png"/>
+</channel>
+<channel id="SBL">
+<display-name lang="pt">TV Jornal - SBT Recife HD</display-name>
+<icon src="sbl.png"/>
+</channel>
+<channel id="SBP">
+<display-name lang="pt">SBT S&#xE3;o Paulo</display-name>
+<icon src="sbp.png"/>
+</channel>
+<channel id="SBQ">
+<display-name lang="pt">SBT Bras&#xED;lia HD</display-name>
+<icon src="sbq.png"/>
+</channel>
+<channel id="SBR">
+<display-name lang="pt">SBT Bras&#xED;lia</display-name>
+<icon src="sbr.png"/>
+</channel>
+<channel id="SBS">
+<display-name lang="pt">SBT Sul</display-name>
+<icon src="sbs.png"/>
+</channel>
+<channel id="SBT">
+<display-name lang="pt">SBT Rede - SAT Anal&#xF3;gico</display-name>
+<icon src="sbt.png"/>
+</channel>
+<channel id="SBU">
+<display-name lang="pt">SBT Sul HD</display-name>
+<icon src="sbu.png"/>
+</channel>
+<channel id="SBV">
+<display-name lang="pt">SBT Vit&#xF3;ria</display-name>
+<icon src="sbv.png"/>
+</channel>
+<channel id="SBX">
+<display-name lang="pt">SBT Teste Net</display-name>
+<icon src="sbx.png"/>
+</channel>
+<channel id="SBY">
+<display-name lang="pt">Canal Shop Buy</display-name>
+<icon src="sby.png"/>
+</channel>
+<channel id="SBZ">
+<display-name lang="pt">SBT Apucarana (TV Tibagi)</display-name>
+<icon src="sbz.png"/>
+</channel>
+<channel id="SCB">
+<display-name lang="pt">SBT Santa Catarina - HD</display-name>
+<icon src="scb.png"/>
+</channel>
+<channel id="SCC">
+<display-name lang="pt">SBT Santa Catarina</display-name>
+<icon src="scc.png"/>
+</channel>
+<channel id="SCD">
+<display-name lang="pt">SBT Tambau</display-name>
+<icon src="scd.png"/>
+</channel>
+<channel id="SCE">
+<display-name lang="pt">SBT Tambau HD</display-name>
+<icon src="sce.png"/>
+</channel>
+<channel id="SCG">
+<display-name lang="pt">SBT Campo Grande - MS</display-name>
+<icon src="scg.png"/>
+</channel>
+<channel id="SCH">
+<display-name lang="pt">SBT Campo Grande - MS HD</display-name>
+<icon src="sch.png"/>
+</channel>
+<channel id="SCI">
+<display-name lang="pt">SyFy</display-name>
+<icon src="sci.png"/>
+</channel>
+<channel id="SEH">
+<display-name lang="pt">Sony HD</display-name>
+<icon src="seh.png"/>
+</channel>
+<channel id="SEN">
+<display-name lang="pt">TV Senado</display-name>
+<icon src="sen.png"/>
+</channel>
+<channel id="SET">
+<display-name lang="pt">Sony</display-name>
+<icon src="set.png"/>
+</channel>
+<channel id="SEX">
+<display-name lang="pt">Sexpriv&#xE9;</display-name>
+<icon src="sex.png"/>
+</channel>
+<channel id="SGC">
+<display-name lang="pt">Redetv Rondonia - GTV</display-name>
+<icon src="sgc.png"/>
+</channel>
+<channel id="SGH">
+<display-name lang="pt">SBT Goi&#xE2;nia - TV Serra Dourada - HD</display-name>
+<icon src="sgh.png"/>
+</channel>
+<channel id="SGO">
+<display-name lang="pt">SBT Goi&#xE2;nia - TV Serra Dourada</display-name>
+<icon src="sgo.png"/>
+</channel>
+<channel id="SHB">
+<display-name lang="pt">SBT Belo Horizonte - HD</display-name>
+<icon src="shb.png"/>
+</channel>
+<channel id="SHC">
+<display-name lang="pt">SBT Curitiba - HD</display-name>
+<icon src="shc.png"/>
+</channel>
+<channel id="SHD">
+<display-name lang="pt">SBT  - HD</display-name>
+<icon src="shd.png"/>
+</channel>
+<channel id="SHJ">
+<display-name lang="pt">SBT RJ - HD</display-name>
+<icon src="shj.png"/>
+</channel>
+<channel id="SHO">
+<display-name lang="pt">Shoptime</display-name>
+<icon src="sho.png"/>
+</channel>
+<channel id="SHP">
+<display-name lang="pt">Polishop TV</display-name>
+<icon src="shp.png"/>
+</channel>
+<channel id="SHS">
+<display-name lang="pt">Rede TV  Shop Rio Preto</display-name>
+<icon src="shs.png"/>
+</channel>
+<channel id="SHT">
+<display-name lang="pt">Rede TV Shop Bauru</display-name>
+<icon src="sht.png"/>
+</channel>
+<channel id="SHU">
+<display-name lang="pt">Rede TV Shop S.J.dos Campos</display-name>
+<icon src="shu.png"/>
+</channel>
+<channel id="SIC">
+<display-name lang="pt">SIC Internacional</display-name>
+<icon src="sic.png"/>
+</channel>
+<channel id="SJT">
+<display-name lang="pt">SBT Ja&#xFA; - HD</display-name>
+<icon src="sjt.png"/>
+</channel>
+<channel id="SJU">
+<display-name lang="pt">SBT Ja&#xFA;</display-name>
+<icon src="sju.png"/>
+</channel>
+<channel id="SM2">
+<display-name lang="pt">SporTV2 HD</display-name>
+<icon src="sm2.png"/>
+</channel>
+<channel id="SMP">
+<display-name lang="pt">Sempre TV</display-name>
+<icon src="smp.png"/>
+</channel>
+<channel id="SMT">
+<display-name lang="pt">Canal SMT - Manaus</display-name>
+<icon src="smt.png"/>
+</channel>
+<channel id="SMX">
+<display-name lang="pt">MIX TV</display-name>
+<icon src="smx.png"/>
+</channel>
+<channel id="SP2">
+<display-name lang="pt">SporTV2</display-name>
+<icon src="sp2.png"/>
+</channel>
+<channel id="SP3">
+<display-name lang="pt">SporTV3</display-name>
+<icon src="sp3.png"/>
+</channel>
+<channel id="SPA">
+<display-name lang="pt">Space</display-name>
+<icon src="spa.png"/>
+</channel>
+<channel id="SPC">
+<display-name lang="pt">Sex Priv&#xEA; da CTBC</display-name>
+<icon src="spc.png"/>
+</channel>
+<channel id="SPF">
+<display-name lang="pt">Esporte Interativo Max 2 HD</display-name>
+<icon src="spf.png"/>
+</channel>
+<channel id="SPG">
+<display-name lang="pt">Esporte Interativo Max 2</display-name>
+<icon src="spg.png"/>
+</channel>
+<channel id="SPH">
+<display-name lang="pt">Space HD</display-name>
+<icon src="sph.png"/>
+</channel>
+<channel id="SPI">
+<display-name lang="pt">Esporte Interativo</display-name>
+<icon src="spi.png"/>
+</channel>
+<channel id="SPJ">
+<display-name lang="pt">Esporte Interativo Claro TV</display-name>
+<icon src="spj.png"/>
+</channel>
+<channel id="SPK">
+<display-name lang="pt">Esporte Interativo HD</display-name>
+<icon src="spk.png"/>
+</channel>
+<channel id="SPL">
+<display-name lang="pt">Esporte Interativo Maxx</display-name>
+<icon src="spl.png"/>
+</channel>
+<channel id="SPM">
+<display-name lang="pt">EI Maxx HD</display-name>
+<icon src="spm.png"/>
+</channel>
+<channel id="SPN">
+<display-name lang="pt">EI Maxx</display-name>
+<icon src="spn.png"/>
+</channel>
+<channel id="SPO">
+<display-name lang="pt">SporTV</display-name>
+<icon src="spo.png"/>
+</channel>
+<channel id="SPR">
+<display-name lang="pt">SporTV Curitiba/PR</display-name>
+<icon src="spr.png"/>
+</channel>
+<channel id="SRD">
+<display-name lang="pt">Super Rede</display-name>
+<icon src="srd.png"/>
+</channel>
+<channel id="SRO">
+<display-name lang="pt">SBT Ribeir&#xE3;o Preeto - HD</display-name>
+<icon src="sro.png"/>
+</channel>
+<channel id="SRP">
+<display-name lang="pt">SBT Ribeir&#xE3;o Preto</display-name>
+<icon src="srp.png"/>
+</channel>
+<channel id="SSA">
+<display-name lang="pt">SBT Salvador - TV Aratu</display-name>
+<icon src="ssa.png"/>
+</channel>
+<channel id="SSB">
+<display-name lang="pt">SBT Salvador HD - TV Aratu</display-name>
+<icon src="ssb.png"/>
+</channel>
+<channel id="SSC">
+<display-name lang="pt">SporTV Florian&#xF3;polis/SC</display-name>
+<icon src="ssc.png"/>
+</channel>
+<channel id="SSH">
+<display-name lang="pt">SBT Sorocaba HD - TV Sorocaba</display-name>
+<icon src="ssh.png"/>
+</channel>
+<channel id="SSO">
+<display-name lang="pt">SBT Sorocaba - TV Sorocaba</display-name>
+<icon src="sso.png"/>
+</channel>
+<channel id="ST2">
+<display-name lang="pt">SporTV2 HD</display-name>
+<icon src="st2.png"/>
+</channel>
+<channel id="ST3">
+<display-name lang="pt">SporTV3</display-name>
+<icon src="st3.png"/>
+</channel>
+<channel id="ST4">
+<display-name lang="pt">SporTV2 HD</display-name>
+<icon src="st4.png"/>
+</channel>
+<channel id="ST6">
+<display-name lang="pt">SporTV3</display-name>
+<icon src="st6.png"/>
+</channel>
+<channel id="STB">
+<display-name lang="pt">SporTV2 Telefonica - HD</display-name>
+<icon src="stb.png"/>
+</channel>
+<channel id="STC">
+<display-name lang="pt">Canal Santa Cecilia</display-name>
+<icon src="stc.png"/>
+</channel>
+<channel id="STD">
+<display-name lang="pt">SporTV</display-name>
+<icon src="std.png"/>
+</channel>
+<channel id="STE">
+<display-name lang="pt">SporTV</display-name>
+<icon src="ste.png"/>
+</channel>
+<channel id="STF">
+<display-name lang="pt">SporTV</display-name>
+<icon src="stf.png"/>
+</channel>
+<channel id="STG">
+<display-name lang="pt">SporTV HD</display-name>
+<icon src="stg.png"/>
+</channel>
+<channel id="STH">
+<display-name lang="pt">Shop Tour 1</display-name>
+<icon src="sth.png"/>
+</channel>
+<channel id="STN">
+<display-name lang="pt">SporTV NDS - HD</display-name>
+<icon src="stn.png"/>
+</channel>
+<channel id="STO">
+<display-name lang="pt">Stoptv</display-name>
+<icon src="sto.png"/>
+</channel>
+<channel id="STR">
+<display-name lang="pt">Shop Tour 2</display-name>
+<icon src="str.png"/>
+</channel>
+<channel id="SUN">
+<display-name lang="pt">Sundance</display-name>
+<icon src="sun.png"/>
+</channel>
+<channel id="SUP">
+<display-name lang="pt">National Geographic</display-name>
+<icon src="sup.png"/>
+</channel>
+<channel id="SUQ">
+<display-name lang="pt">NAT GEO HD</display-name>
+<icon src="suq.png"/>
+</channel>
+<channel id="SUR">
+<display-name lang="pt">TV Sur Belo Horizonte</display-name>
+<icon src="sur.png"/>
+</channel>
+<channel id="SVH">
+<display-name lang="pt">SBT Vitoria HD</display-name>
+<icon src="svh.png"/>
+</channel>
+<channel id="T06">
+<display-name lang="pt">TVC BH - Canal 6</display-name>
+<icon src="t06.png"/>
+</channel>
+<channel id="T07">
+<display-name lang="pt">Rede TVT Mogi</display-name>
+<icon src="t07.png"/>
+</channel>
+<channel id="T10">
+<display-name lang="pt">Radio Monte Carlo TV</display-name>
+<icon src="t10.png"/>
+</channel>
+<channel id="T11">
+<display-name lang="pt">R&#xE1;dio Virgin TV</display-name>
+<icon src="t11.png"/>
+</channel>
+<channel id="T12">
+<display-name lang="pt">Eurosport 1</display-name>
+<icon src="t12.png"/>
+</channel>
+<channel id="T13">
+<display-name lang="pt">Eurosport 2</display-name>
+<icon src="t13.png"/>
+</channel>
+<channel id="T14">
+<display-name lang="pt">Real Madrid</display-name>
+<icon src="t14.png"/>
+</channel>
+<channel id="T15">
+<display-name lang="pt">Tirrenosat</display-name>
+<icon src="t15.png"/>
+</channel>
+<channel id="T16">
+<display-name lang="pt">Telemilano</display-name>
+<icon src="t16.png"/>
+</channel>
+<channel id="T2H">
+<display-name lang="pt">Telecine Action HD</display-name>
+<icon src="t2h.png"/>
+</channel>
+<channel id="T3H">
+<display-name lang="pt">Telecine Touch HD</display-name>
+<icon src="t3h.png"/>
+</channel>
+<channel id="T4H">
+<display-name lang="pt">Telecine Pipoca HD</display-name>
+<icon src="t4h.png"/>
+</channel>
+<channel id="T5H">
+<display-name lang="pt">Telecine Cult HD</display-name>
+<icon src="t5h.png"/>
+</channel>
+<channel id="T6H">
+<display-name lang="pt">Telecine Fun HD</display-name>
+<icon src="t6h.png"/>
+</channel>
+<channel id="TAL">
+<display-name lang="pt">TV ALAGOAS</display-name>
+<icon src="tal.png"/>
+</channel>
+<channel id="TAM">
+<display-name lang="pt">TV Transam&#xE9;rica</display-name>
+<icon src="tam.png"/>
+</channel>
+<channel id="TAP">
+<display-name lang="pt">TV Apoio</display-name>
+<icon src="tap.png"/>
+</channel>
+<channel id="TAR">
+<display-name lang="pt">TV Ara - Local de Araraquara</display-name>
+<icon src="tar.png"/>
+</channel>
+<channel id="TBC">
+<display-name lang="pt">TV Brasil Central - Goi&#xE1;s</display-name>
+<icon src="tbc.png"/>
+</channel>
+<channel id="TBE">
+<display-name lang="pt">TV Brasil Esperan&#xE7;a - Joinville</display-name>
+<icon src="tbe.png"/>
+</channel>
+<channel id="TBH">
+<display-name lang="pt">TBS HD</display-name>
+<icon src="tbh.png"/>
+</channel>
+<channel id="TBO">
+<display-name lang="pt">TBO</display-name>
+<icon src="tbo.png"/>
+</channel>
+<channel id="TBR">
+<display-name lang="pt">TV Brasil NET</display-name>
+<icon src="tbr.png"/>
+</channel>
+<channel id="TBS">
+<display-name lang="pt">TBS SD</display-name>
+<icon src="tbs.png"/>
+</channel>
+<channel id="TC1">
+<display-name lang="pt">Telecine Premium</display-name>
+<icon src="tc1.png"/>
+</channel>
+<channel id="TC2">
+<display-name lang="pt">Telecine Action</display-name>
+<icon src="tc2.png"/>
+</channel>
+<channel id="TC3">
+<display-name lang="pt">Telecine Touch</display-name>
+<icon src="tc3.png"/>
+</channel>
+<channel id="TC4">
+<display-name lang="pt">Telecine Pipoca</display-name>
+<icon src="tc4.png"/>
+</channel>
+<channel id="TC5">
+<display-name lang="pt">Telecine Cult</display-name>
+<icon src="tc5.png"/>
+</channel>
+<channel id="TC6">
+<display-name lang="pt">Telecine Fun</display-name>
+<icon src="tc6.png"/>
+</channel>
+<channel id="TCC">
+<display-name lang="pt">TVCI</display-name>
+<icon src="tcc.png"/>
+</channel>
+<channel id="TCD">
+<display-name lang="pt">Record Fortaleza</display-name>
+<icon src="tcd.png"/>
+</channel>
+<channel id="TCE">
+<display-name lang="pt">Record Fortaleza HD</display-name>
+<icon src="tce.png"/>
+</channel>
+<channel id="TCF">
+<display-name lang="pt">TV Comunitaria</display-name>
+<icon src="tcf.png"/>
+</channel>
+<channel id="TCH">
+<display-name lang="pt">Telecine Premium HD</display-name>
+<icon src="tch.png"/>
+</channel>
+<channel id="TCI">
+<display-name lang="pt">RCI</display-name>
+<icon src="tci.png"/>
+</channel>
+<channel id="TCJ">
+<display-name lang="pt">TV Cidade Joinville - Canal 20</display-name>
+<icon src="tcj.png"/>
+</channel>
+<channel id="TCM">
+<display-name lang="pt">TCM</display-name>
+<icon src="tcm.png"/>
+</channel>
+<channel id="TCO">
+<display-name lang="pt">TV Corinthians</display-name>
+<icon src="tco.png"/>
+</channel>
+<channel id="TCR">
+<display-name lang="pt">TV Comunit&#xE1;ria Ribeir&#xE3;o Preto</display-name>
+<icon src="tcr.png"/>
+</channel>
+<channel id="TCT">
+<display-name lang="pt">TV Claret</display-name>
+<icon src="tct.png"/>
+</channel>
+<channel id="TDD">
+<display-name lang="pt">TV Todo Dia</display-name>
+<icon src="tdd.png"/>
+</channel>
+<channel id="TDF">
+<display-name lang="pt">Tv Di&#xE1;rio Fortaleza e Natal</display-name>
+<icon src="tdf.png"/>
+</channel>
+<channel id="TDG">
+<display-name lang="pt">TV Di&#xE1;rio Fortaleza HD</display-name>
+<icon src="tdg.png"/>
+</channel>
+<channel id="TDH">
+<display-name lang="pt">TV Di&#xE1;rio</display-name>
+<icon src="tdh.png"/>
+</channel>
+<channel id="TDR">
+<display-name lang="pt">TV Di&#xE1;rio - RJ</display-name>
+<icon src="tdr.png"/>
+</channel>
+<channel id="TE+">
+<display-name lang="pt">TV + Esporte</display-name>
+<icon src="te+.png"/>
+</channel>
+<channel id="TED">
+<display-name lang="pt">TV Brasil</display-name>
+<icon src="ted.png"/>
+</channel>
+<channel id="TEF">
+<display-name lang="pt">TV Universit&#xE1;ria Natal</display-name>
+<icon src="tef.png"/>
+</channel>
+<channel id="TEH">
+<display-name lang="pt">TV TEM Bauru - HD</display-name>
+<icon src="teh.png"/>
+</channel>
+<channel id="TEJ">
+<display-name lang="pt">TVE - TV Educativa Jundia&#xED;</display-name>
+<icon src="tej.png"/>
+</channel>
+<channel id="TEM">
+<display-name lang="pt">TV TEM Bauru</display-name>
+<icon src="tem.png"/>
+</channel>
+<channel id="TEN">
+<display-name lang="pt">TV Tem Itapetininga</display-name>
+<icon src="ten.png"/>
+</channel>
+<channel id="TEO">
+<display-name lang="pt">Teovision - Mogi</display-name>
+<icon src="teo.png"/>
+</channel>
+<channel id="TES">
+<display-name lang="pt">Grade TESTE XGrade</display-name>
+<icon src="tes.png"/>
+</channel>
+<channel id="TFA">
+<display-name lang="pt">TV Farol - NET Macei&#xF3;</display-name>
+<icon src="tfa.png"/>
+</channel>
+<channel id="TFO">
+<display-name lang="pt">TV Informativo</display-name>
+<icon src="tfo.png"/>
+</channel>
+<channel id="TGB">
+<display-name lang="pt">TGB</display-name>
+<icon src="tgb.png"/>
+</channel>
+<channel id="TGC">
+<display-name lang="pt">The Golf Channel</display-name>
+<icon src="tgc.png"/>
+</channel>
+<channel id="TGU">
+<display-name lang="pt">TV Comunit&#xE1;ria de Guarulhos</display-name>
+<icon src="tgu.png"/>
+</channel>
+<channel id="THA">
+<display-name lang="pt">TV Thathi</display-name>
+<icon src="tha.png"/>
+</channel>
+<channel id="THD">
+<display-name lang="pt">PFC HD TVA</display-name>
+<icon src="thd.png"/>
+</channel>
+<channel id="THF">
+<display-name lang="pt">Venus</display-name>
+<icon src="thf.png"/>
+</channel>
+<channel id="THM">
+<display-name lang="pt">Canal TNH de Maceio</display-name>
+<icon src="thm.png"/>
+</channel>
+<channel id="TIS">
+<display-name lang="pt">TV Ilha do Sol</display-name>
+<icon src="tis.png"/>
+</channel>
+<channel id="TJA">
+<display-name lang="pt">TV Nordeste - SBT Fortaleza</display-name>
+<icon src="tja.png"/>
+</channel>
+<channel id="TJH">
+<display-name lang="pt">TV Nordeste - SBT HD Fortaleza</display-name>
+<icon src="tjh.png"/>
+</channel>
+<channel id="TLE">
+<display-name lang="pt">TV Leste</display-name>
+<icon src="tle.png"/>
+</channel>
+<channel id="TLF">
+<display-name lang="pt">Telefe</display-name>
+<icon src="tlf.png"/>
+</channel>
+<channel id="TLH">
+<display-name lang="pt">TLC HD</display-name>
+<icon src="tlh.png"/>
+</channel>
+<channel id="TLO">
+<display-name lang="pt">Cobertura Rio 2016 na NET</display-name>
+<icon src="tlo.png"/>
+</channel>
+<channel id="TLP">
+<display-name lang="pt">TV Litoral Panorama</display-name>
+<icon src="tlp.png"/>
+</channel>
+<channel id="TLS">
+<display-name lang="pt">Telesur</display-name>
+<icon src="tls.png"/>
+</channel>
+<channel id="TM1">
+<display-name lang="pt">ESPN2</display-name>
+<icon src="tm1.png"/>
+</channel>
+<channel id="TM2">
+<display-name lang="pt">Nasa</display-name>
+<icon src="tm2.png"/>
+</channel>
+<channel id="TM3">
+<display-name lang="pt">NBC</display-name>
+<icon src="tm3.png"/>
+</channel>
+<channel id="TM4">
+<display-name lang="pt">Travel Channel</display-name>
+<icon src="tm4.png"/>
+</channel>
+<channel id="TM5">
+<display-name lang="pt">Speed</display-name>
+<icon src="tm5.png"/>
+</channel>
+<channel id="TM6">
+<display-name lang="pt">Arte</display-name>
+<icon src="tm6.png"/>
+</channel>
+<channel id="TM7">
+<display-name lang="pt">Red Bull TV</display-name>
+<icon src="tm7.png"/>
+</channel>
+<channel id="TM8">
+<display-name lang="pt">NFL</display-name>
+<icon src="tm8.png"/>
+</channel>
+<channel id="TM9">
+<display-name lang="pt">Fox Sports Tim</display-name>
+<icon src="tm9.png"/>
+</channel>
+<channel id="TMB">
+<display-name lang="pt">TV Max Baixada</display-name>
+<icon src="tmb.png"/>
+</channel>
+<channel id="TMC">
+<display-name lang="pt">Tv+ Curitiba</display-name>
+<icon src="tmc.png"/>
+</channel>
+<channel id="TME">
+<display-name lang="pt">Tv+2 Americana - Canal 13</display-name>
+<icon src="tme.png"/>
+</channel>
+<channel id="TMF">
+<display-name lang="pt">TVM Santa Catarina - Canal 14</display-name>
+<icon src="tmf.png"/>
+</channel>
+<channel id="TMH">
+<display-name lang="pt">TV Novo Hamburgo</display-name>
+<icon src="tmh.png"/>
+</channel>
+<channel id="TMI">
+<display-name lang="pt">TV Max Piracicaba</display-name>
+<icon src="tmi.png"/>
+</channel>
+<channel id="TMM">
+<display-name lang="pt">TV Max S&#xE3;o Carlos</display-name>
+<icon src="tmm.png"/>
+</channel>
+<channel id="TMN">
+<display-name lang="pt">TV Mogi News</display-name>
+<icon src="tmn.png"/>
+</channel>
+<channel id="TMO">
+<display-name lang="pt">TV Mosaico</display-name>
+<icon src="tmo.png"/>
+</channel>
+<channel id="TMP">
+<display-name lang="pt">Tv+ Porto Alegre</display-name>
+<icon src="tmp.png"/>
+</channel>
+<channel id="TMR">
+<display-name lang="pt">TV Miramar NET Jo&#xE3;o Pessoa</display-name>
+<icon src="tmr.png"/>
+</channel>
+<channel id="TMT">
+<display-name lang="pt">TV Metropolitano - Natal</display-name>
+<icon src="tmt.png"/>
+</channel>
+<channel id="TMX">
+<display-name lang="pt">TX MAX Niteroi - Canal 25 NET RJ</display-name>
+<icon src="tmx.png"/>
+</channel>
+<channel id="TNA">
+<display-name lang="pt">TV Nativa</display-name>
+<icon src="tna.png"/>
+</channel>
+<channel id="TNE">
+<display-name lang="pt">TV Costa Norte</display-name>
+<icon src="tne.png"/>
+</channel>
+<channel id="TNH">
+<display-name lang="pt">TNT HD</display-name>
+<icon src="tnh.png"/>
+</channel>
+<channel id="TNO">
+<display-name lang="pt">TV Meio Norte</display-name>
+<icon src="tno.png"/>
+</channel>
+<channel id="TNP">
+<display-name lang="pt">TV Meio Norte - HD</display-name>
+<icon src="tnp.png"/>
+</channel>
+<channel id="TNR">
+<display-name lang="pt">TNT S&#xE9;ries HD</display-name>
+<icon src="tnr.png"/>
+</channel>
+<channel id="TNS">
+<display-name lang="pt">TNT S&#xE9;ries</display-name>
+<icon src="tns.png"/>
+</channel>
+<channel id="TNT">
+<display-name lang="pt">TNT</display-name>
+<icon src="tnt.png"/>
+</channel>
+<channel id="TOC">
+<display-name lang="pt">Tooncast</display-name>
+<icon src="toc.png"/>
+</channel>
+<channel id="TOP">
+<display-name lang="pt">TOP TV</display-name>
+<icon src="top.png"/>
+</channel>
+<channel id="TPA">
+<display-name lang="pt">RPC TV</display-name>
+<icon src="tpa.png"/>
+</channel>
+<channel id="TPB">
+<display-name lang="pt">RPC TV Paranava&#xED;</display-name>
+<icon src="tpb.png"/>
+</channel>
+<channel id="TPC">
+<display-name lang="pt">RPC TV Maring&#xE1;</display-name>
+<icon src="tpc.png"/>
+</channel>
+<channel id="TPD">
+<display-name lang="pt">RPC TV Foz do Igua&#xE7;u</display-name>
+<icon src="tpd.png"/>
+</channel>
+<channel id="TPE">
+<display-name lang="pt">RPC TV Ponta Grossa</display-name>
+<icon src="tpe.png"/>
+</channel>
+<channel id="TPH">
+<display-name lang="pt">Globo RPC Curitiba</display-name>
+<icon src="tph.png"/>
+</channel>
+<channel id="TPL">
+<display-name lang="pt">Globo Londrina</display-name>
+<icon src="tpl.png"/>
+</channel>
+<channel id="TPN">
+<display-name lang="pt">TV Pantanal</display-name>
+<icon src="tpn.png"/>
+</channel>
+<channel id="TRB">
+<display-name lang="pt">Travel Box Brasil</display-name>
+<icon src="trb.png"/>
+</channel>
+<channel id="TRH">
+<display-name lang="pt">Trutv HD</display-name>
+<icon src="trh.png"/>
+</channel>
+<channel id="TRI">
+<display-name lang="pt">TV Rio</display-name>
+<icon src="tri.png"/>
+</channel>
+<channel id="TRN">
+<display-name lang="pt">TVRN</display-name>
+<icon src="trn.png"/>
+</channel>
+<channel id="TRQ">
+<display-name lang="pt">TV Cultura Rio Grande Sul - HD</display-name>
+<icon src="trq.png"/>
+</channel>
+<channel id="TRS">
+<display-name lang="pt">TV Cultura Rio Grande Sul</display-name>
+<icon src="trs.png"/>
+</channel>
+<channel id="TRU">
+<display-name lang="pt">truTV</display-name>
+<icon src="tru.png"/>
+</channel>
+<channel id="TRV">
+<display-name lang="pt">TLC</display-name>
+<icon src="trv.png"/>
+</channel>
+<channel id="TSB">
+<display-name lang="pt">TV Saber</display-name>
+<icon src="tsb.png"/>
+</channel>
+<channel id="TSH">
+<display-name lang="pt">Shop TV</display-name>
+<icon src="tsh.png"/>
+</channel>
+<channel id="TSI">
+<display-name lang="pt">TV Sinal</display-name>
+<icon src="tsi.png"/>
+</channel>
+<channel id="TSR">
+<display-name lang="pt">TV Setorial</display-name>
+<icon src="tsr.png"/>
+</channel>
+<channel id="TSS">
+<display-name lang="pt">TV Shop Sul</display-name>
+<icon src="tss.png"/>
+</channel>
+<channel id="TTH">
+<display-name lang="pt">TV Tiradentes HD</display-name>
+<icon src="tth.png"/>
+</channel>
+<channel id="TTI">
+<display-name lang="pt">TV Tiradentes</display-name>
+<icon src="tti.png"/>
+</channel>
+<channel id="TTM">
+<display-name lang="pt">TV Terceiro Mil&#xEA;nio - Maringa</display-name>
+<icon src="ttm.png"/>
+</channel>
+<channel id="TTV">
+<display-name lang="pt">Terra TV</display-name>
+<icon src="ttv.png"/>
+</channel>
+<channel id="TUB">
+<display-name lang="pt">TV Universit&#xE1;ria Blumenau</display-name>
+<icon src="tub.png"/>
+</channel>
+<channel id="TUH">
+<display-name lang="pt">TV Uni&#xE3;o HD</display-name>
+<icon src="tuh.png"/>
+</channel>
+<channel id="TV3">
+<display-name lang="pt">+TVC NET Aracaju</display-name>
+<icon src="tv3.png"/>
+</channel>
+<channel id="TV5">
+<display-name lang="pt">TV5 Monde</display-name>
+<icon src="tv5.png"/>
+</channel>
+<channel id="TV6">
+<display-name lang="pt">Canal 6 - Tvc Net Rio</display-name>
+<icon src="tv6.png"/>
+</channel>
+<channel id="TV7">
+<display-name lang="pt">Tv+ Bras&#xED;lia - Canal 15</display-name>
+<icon src="tv7.png"/>
+</channel>
+<channel id="TV8">
+<display-name lang="pt">Tv+2  ABC - Canal 14</display-name>
+<icon src="tv8.png"/>
+</channel>
+<channel id="TV9">
+<display-name lang="pt">TVMAX Americana - Canal 27</display-name>
+<icon src="tv9.png"/>
+</channel>
+<channel id="TVB">
+<display-name lang="pt">Tv Bem - Net Sto.Andr&#xE9;</display-name>
+<icon src="tvb.png"/>
+</channel>
+<channel id="TVC">
+<display-name lang="pt">TV Com  Florian&#xF3;polis - SC</display-name>
+<icon src="tvc.png"/>
+</channel>
+<channel id="TVD">
+<display-name lang="pt">TV Di&#xE1;rio - Globo Mogi Das Cru</display-name>
+<icon src="tvd.png"/>
+</channel>
+<channel id="TVE">
+<display-name lang="pt">TV Espanha</display-name>
+<icon src="tve.png"/>
+</channel>
+<channel id="TVG">
+<display-name lang="pt">TV G&#xEA;nesis</display-name>
+<icon src="tvg.png"/>
+</channel>
+<channel id="TVH">
+<display-name lang="pt">TV Tribuna - HD</display-name>
+<icon src="tvh.png"/>
+</channel>
+<channel id="TVI">
+<display-name lang="pt">Terceira Via TV</display-name>
+<icon src="tvi.png"/>
+</channel>
+<channel id="TVJ">
+<display-name lang="pt">TV Jornal - Net Limeira</display-name>
+<icon src="tvj.png"/>
+</channel>
+<channel id="TVK">
+<display-name lang="pt">Rede TVT Santo Andr&#xE9;</display-name>
+<icon src="tvk.png"/>
+</channel>
+<channel id="TVL">
+<display-name lang="pt">Terceira Via TV - HD</display-name>
+<icon src="tvl.png"/>
+</channel>
+<channel id="TVM">
+<display-name lang="pt">TV Balc&#xE3;o - Net BH</display-name>
+<icon src="tvm.png"/>
+</channel>
+<channel id="TVN">
+<display-name lang="pt">BH News</display-name>
+<icon src="tvn.png"/>
+</channel>
+<channel id="TVO">
+<display-name lang="pt">TV Opini&#xE3;o - Net Rio Claro</display-name>
+<icon src="tvo.png"/>
+</channel>
+<channel id="TVP">
+<display-name lang="pt">TV Palavra / Tv Da Gente - TVA</display-name>
+<icon src="tvp.png"/>
+</channel>
+<channel id="TVQ">
+<display-name lang="pt">TV Brusque</display-name>
+<icon src="tvq.png"/>
+</channel>
+<channel id="TVR">
+<display-name lang="pt">TVE-RS - TVE do Rio Grande do Sul</display-name>
+<icon src="tvr.png"/>
+</channel>
+<channel id="TVS">
+<display-name lang="pt">TV S&#xE9;culo XXI</display-name>
+<icon src="tvs.png"/>
+</channel>
+<channel id="TVT">
+<display-name lang="pt">Globo TV Tribuna Santos</display-name>
+<icon src="tvt.png"/>
+</channel>
+<channel id="TVU">
+<display-name lang="pt">TV Uni&#xE3;o</display-name>
+<icon src="tvu.png"/>
+</channel>
+<channel id="TVV">
+<display-name lang="pt">Terra Viva</display-name>
+<icon src="tvv.png"/>
+</channel>
+<channel id="TWS">
+<display-name lang="pt">TV Web Shop</display-name>
+<icon src="tws.png"/>
+</channel>
+<channel id="UBH">
+<display-name lang="pt">Tv Universit&#xE1;ria - BH</display-name>
+<icon src="ubh.png"/>
+</channel>
+<channel id="UCG">
+<display-name lang="pt">Tv Universit&#xE1;ria - Goi&#xE2;nia</display-name>
+<icon src="ucg.png"/>
+</channel>
+<channel id="UCP">
+<display-name lang="pt">Canal Universit&#xE1;rio UNICAMP</display-name>
+<icon src="ucp.png"/>
+</channel>
+<channel id="UFA">
+<display-name lang="pt">TV UF AM</display-name>
+<icon src="ufa.png"/>
+</channel>
+<channel id="UFG">
+<display-name lang="pt">TV UFG - Goi&#xE2;nia</display-name>
+<icon src="ufg.png"/>
+</channel>
+<channel id="UFM">
+<display-name lang="pt">TV Universit&#xE1;ria - Mar&#xED;lia</display-name>
+<icon src="ufm.png"/>
+</channel>
+<channel id="UFO">
+<display-name lang="pt">TV Unifor - Fortaleza</display-name>
+<icon src="ufo.png"/>
+</channel>
+<channel id="UFP">
+<display-name lang="pt">TV Universit&#xE1;ria de Jo&#xE3;o Pessoa</display-name>
+<icon src="ufp.png"/>
+</channel>
+<channel id="UFS">
+<display-name lang="pt">TV Universit&#xE1;ria - Santa Catarina</display-name>
+<icon src="ufs.png"/>
+</channel>
+<channel id="ULB">
+<display-name lang="pt">Ulbra TV</display-name>
+<icon src="ulb.png"/>
+</channel>
+<channel id="UNB">
+<display-name lang="pt">TV Universit&#xE1;ria - Brasilia</display-name>
+<icon src="unb.png"/>
+</channel>
+<channel id="UNF">
+<display-name lang="pt">TV Universit&#xE1;ria - B&#xE1;sica</display-name>
+<icon src="unf.png"/>
+</channel>
+<channel id="UNI">
+<display-name lang="pt">UnitV - Net Rs</display-name>
+<icon src="uni.png"/>
+</channel>
+<channel id="UNP">
+<display-name lang="pt">TV Unesp</display-name>
+<icon src="unp.png"/>
+</channel>
+<channel id="UNR">
+<display-name lang="pt">TV Universit&#xE1;ria - Recife</display-name>
+<icon src="unr.png"/>
+</channel>
+<channel id="UNS">
+<display-name lang="pt">TV Unisantos - TV Brasil de Santos</display-name>
+<icon src="uns.png"/>
+</channel>
+<channel id="UNT">
+<display-name lang="pt">TV Universitaria - Vit&#xF3;ria</display-name>
+<icon src="unt.png"/>
+</channel>
+<channel id="UPR">
+<display-name lang="pt">Canal Universit&#xE1;rio de Curitiba</display-name>
+<icon src="upr.png"/>
+</channel>
+<channel id="UPT">
+<display-name lang="pt">Uni&#xE3;o Planet&#xE1;ria (TV Supren)</display-name>
+<icon src="upt.png"/>
+</channel>
+<channel id="URB">
+<display-name lang="pt">TV Urbana</display-name>
+<icon src="urb.png"/>
+</channel>
+<channel id="USA">
+<display-name lang="pt">Universal Channel</display-name>
+<icon src="usa.png"/>
+</channel>
+<channel id="USH">
+<display-name lang="pt">Universal Channel HD</display-name>
+<icon src="ush.png"/>
+</channel>
+<channel id="UTV">
+<display-name lang="pt">Canal UTV</display-name>
+<icon src="utv.png"/>
+</channel>
+<channel id="UVP">
+<display-name lang="pt">Univesp TV</display-name>
+<icon src="uvp.png"/>
+</channel>
+<channel id="VAL">
+<display-name lang="pt">TV Vale</display-name>
+<icon src="val.png"/>
+</channel>
+<channel id="VCO">
+<display-name lang="pt">Comuta&#xE7;&#xE3;o olimp&#xED;adas HD</display-name>
+<icon src="vco.png"/>
+</channel>
+<channel id="VDA">
+<display-name lang="pt">Rede Vida</display-name>
+<icon src="vda.png"/>
+</channel>
+<channel id="VDH">
+<display-name lang="pt">Rede Vida HD</display-name>
+<icon src="vdh.png"/>
+</channel>
+<channel id="VH1">
+<display-name lang="pt">VH1</display-name>
+<icon src="vh1.png"/>
+</channel>
+<channel id="VH2">
+<display-name lang="pt">VH1 SD/HD</display-name>
+<icon src="vh2.png"/>
+</channel>
+<channel id="VHD">
+<display-name lang="pt">VH1 HD</display-name>
+<icon src="vhd.png"/>
+</channel>
+<channel id="VHS">
+<display-name lang="pt">Vh1 Soul  - Clipes</display-name>
+<icon src="vhs.png"/>
+</channel>
+<channel id="VID">
+<display-name lang="pt">Canal 100% Vida</display-name>
+<icon src="vid.png"/>
+</channel>
+<channel id="VIH">
+<display-name lang="pt">Record Vit&#xF3;ria  HD</display-name>
+<icon src="vih.png"/>
+</channel>
+<channel id="VIL">
+<display-name lang="pt">TV Vila Velha - NET P.Grossa</display-name>
+<icon src="vil.png"/>
+</channel>
+<channel id="VIT">
+<display-name lang="pt">Record Vit&#xF3;ria</display-name>
+<icon src="vit.png"/>
+</channel>
+<channel id="VIV">
+<display-name lang="pt">Viva</display-name>
+<icon src="viv.png"/>
+</channel>
+<channel id="VPE">
+<display-name lang="pt">TV Petropolis</display-name>
+<icon src="vpe.png"/>
+</channel>
+<channel id="VRE">
+<display-name lang="pt">Vila Real</display-name>
+<icon src="vre.png"/>
+</channel>
+<channel id="VTH">
+<display-name lang="pt">SBT Santos e Campinas - Rede VTV HD</display-name>
+<icon src="vth.png"/>
+</channel>
+<channel id="VTV">
+<display-name lang="pt">SBT Santos e Campinas - Rede VTV</display-name>
+<icon src="vtv.png"/>
+</channel>
+<channel id="VVH">
+<display-name lang="pt">Viva HD</display-name>
+<icon src="vvh.png"/>
+</channel>
+<channel id="WBH">
+<display-name lang="pt">Warner HD</display-name>
+<icon src="wbh.png"/>
+</channel>
+<channel id="WBT">
+<display-name lang="pt">Warner Channel</display-name>
+<icon src="wbt.png"/>
+</channel>
+<channel id="WNT">
+<display-name lang="pt">Worldnet</display-name>
+<icon src="wnt.png"/>
+</channel>
+<channel id="WOO">
+<display-name lang="pt">Woohoo</display-name>
+<icon src="woo.png"/>
+</channel>
+<channel id="WST">
+<display-name lang="pt">Shop Web TV</display-name>
+<icon src="wst.png"/>
+</channel>
+<channel id="XTR">
+<display-name lang="pt">Xtreme TV - B&#xE1;sica IPTV</display-name>
+<icon src="xtr.png"/>
+</channel>
+<channel id="XTV">
+<display-name lang="pt">XTV Virtual</display-name>
+<icon src="xtv.png"/>
+</channel>
+<channel id="YEE">
+<display-name lang="pt">Yeeah! TV</display-name>
+<icon src="yee.png"/>
+</channel>
+<channel id="YTN">
+<display-name lang="pt">YTN World News</display-name>
+<icon src="ytn.png"/>
+</channel>
+<channel id="ZAN">
+<display-name lang="pt">TV ZAN (TV Sol)</display-name>
+<icon src="zan.png"/>
+</channel>
+<channel id="ZOH">
+<display-name lang="pt">Zoomoo HD</display-name>
+<icon src="zoh.png"/>
+</channel>
+<channel id="ZOO">
+<display-name lang="pt">Zoomoo</display-name>
+<icon src="zoo.png"/>
+</channel><channel id="MDH">
+<display-name lang="pt">A&amp;E HD</display-name>
+<icon src="MDH.png"/>
+</channel>
+<channel id="AXH">
+<display-name lang="pt">AXN HD</display-name>
+<icon src="AXH.png"/>
+</channel>
+<channel id="CBR">
+<display-name lang="pt">Canal Brasil HD</display-name>
+<icon src="CBR.png"/>
+</channel>
+<channel id="MNH">
+<display-name lang="pt">Cinemax HD</display-name>
+<icon src="MNH.png"/>
+</channel>
+<channel id="CNB">
+<display-name lang="pt">Cine Brasil TV HD</display-name>
+<icon src="cnb.png"/>
+</channel>
+<channel id="FO1">
+<display-name lang="pt">FOX Premium HD</display-name>
+<icon src="FO1.png"/>
+</channel>
+<channel id="FOA">
+<display-name lang="pt">FOX Premium 2 HD</display-name>
+<icon src="FOA.png"/>
+</channel>
+<channel id="HFB">
+<display-name lang="pt">HBO Family HD</display-name>
+<icon src="hfb.png"/>
+</channel>
+<channel id="HPM">
+<display-name lang="pt">HBO Plus HD</display-name>
+<icon src="hpm.png"/>
+</channel>
+<channel id="HFH">
+<display-name lang="pt">HBO Signature HD</display-name>
+<icon src="hfh.png"/>
+</channel>
+<channel id="SEH">
+<display-name lang="pt">Sony HD</display-name>
+<icon src="seh.png"/>
+</channel>
+<channel id="PAQ">
+<display-name lang="pt">Paramount HD</display-name>
+<icon src="PAQ.png"/>
+</channel>
+<channel id="BQ7">
+<display-name lang="pt">Prime Box Brasil HD</display-name>
+<icon src="BQ7.png"/>
+</channel>
+<channel id="SPH">
+<display-name lang="pt">Space HD</display-name>
+<icon src="SPH.png"/>
+</channel>
+<channel id="HAL">
+<display-name lang="pt">Studio Universal HD</display-name>
+<icon src="hal.png"/>
+</channel>
+<channel id="HAL">
+<display-name lang="pt">Studio Universal HD</display-name>
+<icon src="hal.png"/>
+</channel>
+<channel id="SCI">
+<display-name lang="pt">Syfy HD</display-name>
+<icon src="sci.png"/>
+</channel>
+<channel id="SCI">
+<display-name lang="pt">SyFy HD</display-name>
+<icon src="sci.png"/>
+</channel>
+<channel id="TBH">
+<display-name lang="pt">TBS HD</display-name>
+<icon src="tbh.png"/>
+</channel>
+<channel id="TCM">
+<display-name lang="pt">TCM HD</display-name>
+<icon src="tcm.png"/>
+</channel>
+<channel id="T5H">
+<display-name lang="pt">Telecine Cult HD</display-name>
+<icon src="t5h.png"/>
+</channel>
+<channel id="TNR">
+<display-name lang="pt">TNT Series HD</display-name>
+<icon src="tnr.png"/>
+</channel>
+<channel id="USH">
+<display-name lang="pt">Universal Channel HD</display-name>
+<icon src="ush.png"/>
+</channel>
+<channel id="WBT">
+<display-name lang="pt">Warner Channel HD</display-name>
+<icon src="wbt.png"/>
+</channel><channel id="MSH">
+<display-name lang="pt">BIS HD</display-name>
+<icon src="msh.png"/>
+</channel><channel id="APM">
+<display-name lang="pt">Animal Planet HD</display-name>
+<icon src="apm.png"/>
+</channel><channel id="B04">
+<display-name lang="pt">Band HD</display-name>
+<icon src="b04.png"/>
+</channel><channel id="NEH">
+<display-name lang="pt">Band News HD</display-name>
+<icon src="neh.png"/>
+</channel><channel id="FTV">
+<display-name lang="pt">FashionTV Brasil</display-name>
+<icon src="ftv.png"/>
+</channel></tv>
